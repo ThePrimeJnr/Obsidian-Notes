@@ -6,6 +6,35 @@
       {
         "id": "a4f213dc0ba16d54",
         "type": "tabs",
+        "dimension": 71.51556156968877,
+        "children": [
+          {
+            "id": "f9837aecd25e5865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c92e0f47c0793d3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6b2e8c6da1ef93f4",
+        "type": "tabs",
+        "dimension": 28.484438430311233,
         "children": [
           {
             "id": "61183db3040da1cf",
@@ -148,7 +177,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "61183db3040da1cf",
+  "active": "4c92e0f47c0793d3",
   "lastOpenFiles": [
     "00. Daily Notes/2023/May/01-05-2023, Monday.md",
     "2001-05-21.md",
