@@ -4,7 +4,7 @@
     filter: grayscale(60%);
 }
 
-.tasks-list-text > span:not(.task-description) {
+.tasks-list-text span:not(.task-description) {
   display: none;
 }
 
