@@ -17,7 +17,7 @@
   "OpenDailyMemosWithMemos": true,
   "HideDoneTasks": false,
   "ShowTaskLabel": false,
-  "OpenMemosAutomatically": false,
+  "OpenMemosAutomatically": true,
   "ShowTime": true,
   "ShowDate": true,
   "AddBlankLineWhenDate": false,

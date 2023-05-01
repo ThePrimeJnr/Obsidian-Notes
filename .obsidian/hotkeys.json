@@ -1,5 +1,6 @@
 {
-  "calendar:show-calendar-view": [
+  "calendar:show-calendar-view": [],
+  "obsidian-tasks-plugin:edit-task": [
     {
       "modifiers": [
         "Mod"
