@@ -24,12 +24,30 @@
             "id": "fd4e0e2bce7992d0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "593810b52579ecc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md"
+              }
             }
           },
           {
@@ -122,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,8 +184,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "fd4e0e2bce7992d0",
+  "active": "593810b52579ecc6",
   "lastOpenFiles": [
+    "^202.md",
     "00. Daily Notes/2023/May/01-05-2023, Monday.md",
     "Cloud Computing/1. AWS Cloud Concepts.md",
     "Untitled.md",
