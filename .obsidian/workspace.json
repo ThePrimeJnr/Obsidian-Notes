@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & ML in AWS.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI & ML in AWS.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI & ML in AWS.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI & ML in AWS.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,13 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "043eaa2fcd9313ed",
+  "active": "4370de2b766fa1c5",
   "lastOpenFiles": [
+    "AI & ML in AWS.md",
     "Cloud Computing.md",
     "Blogs",
     "Messages",
     "README.md",
-    "AI & ML in AWS.md",
     "Blog Post.md",
     "Cloud Computing Overvi.md",
     "0. Templates/daily note template.md",
