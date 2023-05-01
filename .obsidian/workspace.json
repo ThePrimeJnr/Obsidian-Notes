@@ -11,13 +11,8 @@
             "id": "26c0e4d860fb01f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Templates/daily note template.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -106,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Templates/daily note template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Templates/daily note template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,13 +127,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01. Templates/daily note template.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "6858e18f6d44c377",
@@ -174,13 +165,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "26c0e4d860fb01f0",
+  "active": "043eaa2fcd9313ed",
   "lastOpenFiles": [
+    "Blogs/Recording 20230501165115.webm",
+    "Blogs/Recording 20230501165051.webm",
+    "01. Templates/daily note template.md",
     "00. Daily Notes/2023/May/01-05-2023, Monday.md",
     "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
     "00. Daily Notes/2023/April/30-04-2023, Sunday.md",
     "00. Daily Notes/2023/April",
-    "01. Templates/daily note template.md",
     "00. Daily Notes/2023/May",
     "00. Daily Notes/2023",
     "2023/April/30-04-2023, Sunday.md",
@@ -208,8 +201,6 @@
     "01. Templates/Daily Notes(Task Edition)/Journal/2023/April",
     "01. Templates/Daily Notes(Task Edition)/Templates/Daily Note.md",
     "01. Templates/Daily Notes(Task Edition)/Journal/2023",
-    "01. Templates/Daily Notes(Task Edition)/Templates",
-    "01. Templates/Daily Notes(Task Edition)/Journal",
-    "01. Templates/Daily Notes(Task Edition)"
+    "01. Templates/Daily Notes(Task Edition)/Templates"
   ]
 }
