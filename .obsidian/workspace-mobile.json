@@ -11,8 +11,12 @@
             "id": "644f0b3375f46eb5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AI & ML in AWS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "AI & ML in AWS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "AI & ML in AWS.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "AI & ML in AWS.md"
+          }
         }
       }
     ],
@@ -123,8 +131,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd101f2a10775a09",
+  "active": "644f0b3375f46eb5",
   "lastOpenFiles": [
+    "Cloud Computing.md",
+    "/Cloud Computing.md",
     "AI & ML in AWS.md",
     "/README.md",
     "/AI & ML in AWS.md"
