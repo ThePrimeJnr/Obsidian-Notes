@@ -23,7 +23,7 @@
 > limit 5  
 > ```
 
-> [!success]+ Tasks Done Today  
+> [!success]+ Completed Tasks  
 > ```tasks  
 > done <% tp.date.now("YYYY-MM-DD") %>  
 > hide due date  

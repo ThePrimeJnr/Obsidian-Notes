@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+                "file": "01. Templates/daily note template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+                "file": "01. Templates/daily note template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+                "file": "01. Templates/daily note template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md"
+                "file": "01. Templates/daily note template.md"
               }
             }
           }
@@ -176,8 +176,8 @@
   },
   "active": "26c0e4d860fb01f0",
   "lastOpenFiles": [
-    "01. Templates/daily note template.md",
     "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+    "01. Templates/daily note template.md",
     "00. Daily Notes/2023/May",
     "00. Daily Notes/2023",
     "Blogs/Recording 20230501165051.webm",
