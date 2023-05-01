@@ -6,9 +6,9 @@
 > [!warning]+ OverDue  
 > ```tasks  
 > not done  
+> sort by priority 
 > sort by due date  
 > due before <% tp.date.now("YYYY-MM-DD") %>  
-> hide due date  
 > hide backlink  
 > limit 5  
 > ```
@@ -17,7 +17,8 @@
 > ```tasks  
 > not done  
 > due from <% tp.date.now("YYYY-MM-DD") %>  
-> sort by priority  
+> sort by priority 
+> sort by due date   
 > hide due date  
 > hide backlink  
 > limit 5  
@@ -30,4 +31,4 @@
 > hide backlink
 
 ## Tasks for Today
-- [ ] ***
+- [ ] *
