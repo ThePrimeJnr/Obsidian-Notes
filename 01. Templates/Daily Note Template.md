@@ -16,7 +16,7 @@
 > [!todo]+ Today's Tasks  
 > ```tasks  
 > not done  
-> due on <% tp.date.now().subtract(1, 'day').format("YYYY-MM-DD") %>
+> due after <% tp.date.yesterday("YYYY-MM-DD") %>  
 > sort by priority 
 > sort by due date   
 > hide due date  
@@ -30,5 +30,5 @@
 > hide due date  
 > hide backlink
 
-## Tasks for Today
+## TODOs
 - [ ] *
