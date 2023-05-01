@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing OverviewDdadaily note template.md",
+                "file": "Cloud Computing Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing OverviewDdadaily note template.md",
-                "mode": "source",
+                "file": "Cloud Computing Overview.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing OverviewDdadaily note template.md",
+                "file": "Cloud Computing Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Computing OverviewDdadaily note template.md",
+                "file": "Cloud Computing Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Computing OverviewDdadaily note template.md"
+                "file": "Cloud Computing Overview.md"
               }
             }
           }
@@ -159,11 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b81e3715082a6f7",
+  "active": "043eaa2fcd9313ed",
   "lastOpenFiles": [
     "README.md",
     "0. Templates/daily note template.md",
-    "Cloud Computing OverviewDdadaily note template.md",
+    "Cloud Computing Overview.md",
     "0. Templates",
     "Cloud Computing Overview"
   ]
