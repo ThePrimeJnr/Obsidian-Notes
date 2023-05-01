@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
+                "file": "01. Templates/Message Template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Daily Notes/2023/May/02-05-2023, Tuesday.md"
+                "file": "01. Templates/Message Template.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
+                "file": "01. Templates/Message Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
+                "file": "01. Templates/Message Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,14 +159,14 @@
   },
   "active": "57b8f862a26efedc",
   "lastOpenFiles": [
+    "01. Templates/Daily Note Template.md",
+    "01. Templates/Message Template.md",
+    "Cloud Computing/1. AWS Cloud Concepts.md",
     "00. Daily Notes/2023/May/01-05-2023, Monday.md",
     "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
-    "Cloud Computing/1. AWS Cloud Concepts.md",
     "Cloud Computing/0. Cloud Computing Overview.md",
-    "01. Templates/Daily Note Template.md",
     "00. Daily Notes/2023/May",
     "00. Daily Notes/2023",
-    "01. Templates/Message Template.md",
     "00. Daily Notes/2023/April/30-04-2023, Sunday.md",
     "2023-01-01.md",
     "^202.md",
