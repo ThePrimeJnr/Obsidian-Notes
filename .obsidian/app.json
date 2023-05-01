@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "02. Attachments",
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": true
 }
