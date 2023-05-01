@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "006ef71701a81465",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md"
               }
             }
           },
@@ -168,10 +155,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "006ef71701a81465",
+  "active": "b2825e08497097f9",
   "lastOpenFiles": [
-    "Untitled.md",
     "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+    "Untitled.md",
     "01. Templates/Daily Notes(Task Edition)/Journal/2023/April/2023-04-24.md",
     "01. Templates/Daily Notes(Task Edition)/Journal/2023/April/2023-04-23.md",
     "01. Templates/Daily Notes(Task Edition)/Journal/2023/April/2023-04-22.md",
