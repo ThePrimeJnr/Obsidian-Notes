@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+                "file": "01. Templates/daily note template.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+                "file": "01. Templates/daily note template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+                "file": "01. Templates/daily note template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md"
+                "file": "01. Templates/daily note template.md"
               }
             }
           },
@@ -152,13 +152,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-memos:Memos": false
     }
   },
   "active": "b2825e08497097f9",
   "lastOpenFiles": [
-    "2001-05-21.md",
     "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+    "2001-05-21.md",
     "01. Templates/daily note template.md",
     "Untitled.md",
     "01. Templates/Daily Notes(Task Edition)/Journal/2023/April/2023-04-24.md",
