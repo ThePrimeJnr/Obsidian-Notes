@@ -9,7 +9,6 @@
 > sort by priority 
 > sort by due date  
 > due before <% tp.date.now("YYYY-MM-DD") %>  
-> hide backlink  
 > limit 5  
 > ```
 
@@ -20,15 +19,13 @@
 > sort by due date   
 > sort by priority 
 > hide due date  
-> hide backlink  
 > limit 5  
 > ```
 
-> [!success]+ Completed Tasks  
+> [!success]+ Tasks Completed Today  
 > ```tasks  
 > done <% tp.date.now("YYYY-MM-DD") %>  
 > hide due date  
-> hide backlink
 
 ## Todos:
 - [ ] *
