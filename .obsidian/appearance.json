@@ -1,4 +1,9 @@
 {
   "accentColor": "#2147b0",
-  "cssTheme": "Things"
+  "cssTheme": "Things",
+  "enabledCssSnippets": [
+    "obsidian",
+    "dashboard",
+    "task-backlink-format"
+  ]
 }
