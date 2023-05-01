@@ -8,24 +8,43 @@
 > [!Quote]+ Quote of the Day  
 > <% tp.web.daily_quote() %>
 
+> [!warning]+ OverDue  
+> ```tasks  
+> not done  
+> sort by due date  
+> due before <% tp.date.now("YYYY-MM-DD") %>  
+> hide due date  
+> hide backlink  
+> limit 5  
+> ```
 
-```dataview  
-TABLE WITHOUT ID  
-file.link as Date,  
-choice(Sleep > 7, "🟩", "🟥") as 🛌,  
-choice(Exercise > 30, "🟩", "🟥") as 🏃,  
-choice(Reading > 30, "🟩", "🟥") as 📚,  
-choice(Meditation > 10, "🟩", "🟥") as 🧘,  
-choice(Writing > 750, "🟩", "🟥") as ✍️FROM #dailiesWHERE file.day <= date(now) AND file.day >= date(now) - dur(7days)  
-SORT file.day ASC  
-```
+> [!todo]+ Today's Tasks  
+> ```tasks  
+> not done  
+> due <% tp.date.now("YYYY-MM-DD") %>  
+> sort by priority  
+> hide due date  
+> hide backlink  
+> limit 5  
+> ```
+
+> [!Warning]+ Unscheduled Tasks  
+> ```tasks  
+> not done  
+> no due date
+
+> [!success]+ Tasks Done Today  
+> ```tasks  
+> done <% tp.date.now("YYYY-MM-DD") %>  
+> hide due date  
+> hide backlink
 
 > [!tip]+ Habit Tracker  
 > Sleep:: 0  
 > Reading:: 0  
 > Exercise:: 0  
 > Meditation:: 0  
-> Writing:: 0
+> Writing::
 
 ```dataview  
 TABLE WITHOUT ID  
@@ -34,7 +53,9 @@ choice(Sleep > 7, "🟩", "🟥") as 🛌,
 choice(Exercise > 30, "🟩", "🟥") as 🏃,  
 choice(Reading > 30, "🟩", "🟥") as 📚,  
 choice(Meditation > 10, "🟩", "🟥") as 🧘,  
-choice(Writing > 750, "🟩", "🟥") as ✍️FROM #dailiesWHERE file.day <= date(now) AND file.day >= date(now) - dur(7days)  
+choice(Writing > 750, "🟩", "🟥") as ✍️  
+FROM #dailies  
+WHERE file.day <= date(now) AND file.day >= date(now) - dur(7days)  
 SORT file.day ASC  
 ```
 
