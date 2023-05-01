@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AI & ML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AI & ML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AI & ML.md"
+              }
             }
           }
         ]
@@ -155,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "043eaa2fcd9313ed",
+  "active": "4370de2b766fa1c5",
   "lastOpenFiles": [
-    "AI & ML.md",
     "Blog Post.md",
+    "AI & ML.md",
     "README.md",
     "Cloud Computing Overview.md",
     "Cloud Computing Overvi.md",
