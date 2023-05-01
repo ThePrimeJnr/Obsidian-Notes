@@ -93,7 +93,6 @@
       {
         "id": "db5edb31ec9b0e1c",
         "type": "tabs",
-        "dimension": 33.7890625,
         "children": [
           {
             "id": "c76868ab3a1f07f0",
@@ -123,24 +122,38 @@
                 "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md"
               }
             }
+          },
+          {
+            "id": "6b0cccdfdf8bdebc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4bfd9bae40157376",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "aac1779ca9c1a890",
-        "type": "tabs",
-        "dimension": 66.2109375,
-        "children": [
-          {
-            "id": "4f3c771624cbb86f",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -155,7 +168,6 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-memos:Memos": false,
       "audio-recorder:Start/stop recording": false
     }
   },
