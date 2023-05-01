@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Templates/daily note template.md",
+                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Templates/daily note template.md",
+                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Templates/daily note template.md",
+                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Templates/daily note template.md"
+                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md"
               }
             }
           },
@@ -157,7 +157,9 @@
   },
   "active": "b2825e08497097f9",
   "lastOpenFiles": [
+    "2001-05-21.md",
     "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+    "01. Templates/daily note template.md",
     "Untitled.md",
     "01. Templates/Daily Notes(Task Edition)/Journal/2023/April/2023-04-24.md",
     "01. Templates/Daily Notes(Task Edition)/Journal/2023/April/2023-04-23.md",
@@ -186,8 +188,6 @@
     "01. Templates/Daily Notes(Task Edition)/All completed Tasks.md",
     "01. Templates/Daily Notes(Task Edition)",
     "Daily Notes(Task Edition)/Journal/2023/April/2023-04-24.md",
-    "Daily Notes(Task Edition)/Journal/2023/April/2023-04-23.md",
-    "Daily Notes(Task Edition)/Journal/2023/April/2023-04-22.md",
     "Daily Notes(Task Edition)/Journal/2023/April",
     "Daily Notes(Task Edition)/Journal/2023",
     "Daily Notes(Task Edition)/Templates",
