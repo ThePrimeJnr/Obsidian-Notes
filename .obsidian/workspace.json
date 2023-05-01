@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd5427b655a40af2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud Computing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4370de2b766fa1c5",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,10 +148,11 @@
   },
   "active": "4370de2b766fa1c5",
   "lastOpenFiles": [
+    "Cloud Computing.md",
+    "Cloud Computing.md",
     "README.md",
     "AI & ML in AWS.md",
     "Blog Post.md",
-    "Cloud Computing.md",
     "Cloud Computing Overvi.md",
     "Untitled",
     "0. Templates/daily note template.md",
