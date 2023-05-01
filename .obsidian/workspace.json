@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md"
+                "file": "Cloud Computing/1. AWS Cloud Concepts.md"
               }
             }
           },
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+                "file": "Cloud Computing/1. AWS Cloud Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+                "file": "Cloud Computing/1. AWS Cloud Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,10 +184,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d0078cc0c847dd4f",
+  "active": "0206e1b5645b4ded",
   "lastOpenFiles": [
-    "Cloud Computing/1. AWS Cloud Concepts.md",
     "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+    "Cloud Computing/1. AWS Cloud Concepts.md",
     "Cloud Computing/0. Cloud Computing Overview.md",
     "2023-01-01.md",
     "^202.md",
