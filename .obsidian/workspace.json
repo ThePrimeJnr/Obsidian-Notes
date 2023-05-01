@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing Overview.md",
+                "file": "Cloud Computing OverviewDdadaily note template.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing Overview.md",
+                "file": "Cloud Computing OverviewDdadaily note template.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,6 +102,45 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "8ebb452bf3f97a6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cloud Computing OverviewDdadaily note template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5eb1b01a337f562e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cloud Computing OverviewDdadaily note template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eba603112572c767",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cloud Computing OverviewDdadaily note template.md"
+              }
+            }
           }
         ]
       }
@@ -120,11 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c76868ab3a1f07f0",
+  "active": "2b81e3715082a6f7",
   "lastOpenFiles": [
     "README.md",
     "0. Templates/daily note template.md",
-    "Cloud Computing Overview.md",
+    "Cloud Computing OverviewDdadaily note template.md",
     "0. Templates",
     "Cloud Computing Overview"
   ]

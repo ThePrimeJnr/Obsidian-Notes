@@ -1,5 +1,5 @@
 {
-  "commitMessage": "Update Notes: {{date}}",
+  "commitMessage": "Updates Note: {{date}}",
   "commitDateFormat": "DD/MM/YYYY HH:mm",
   "autoSaveInterval": 1,
   "autoPushInterval": 0,
@@ -26,5 +26,5 @@
   "submoduleRecurseCheckout": false,
   "gitDir": "",
   "showFileMenu": true,
-  "autoCommitMessage": "Update Notes: {{date}}"
+  "autoCommitMessage": "Updates Note: {{date}}"
 }
