@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7a255cda6bf6a24e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog Post.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog Post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog Post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Blog Post.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a255cda6bf6a24e",
+  "active": "043eaa2fcd9313ed",
   "lastOpenFiles": [
     "AI & ML.md",
     "Blog Post.md",
