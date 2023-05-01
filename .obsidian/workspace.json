@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "45b0b43754850c8c",
+        "id": "b81e0b4709b3e258",
         "type": "tabs",
         "children": [
           {
-            "id": "26c0e4d860fb01f0",
+            "id": "1d118c6d852df0f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#daily-notes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,7 +80,7 @@
       {
         "id": "db5edb31ec9b0e1c",
         "type": "tabs",
-        "dimension": 36.328125,
+        "dimension": 33.7890625,
         "children": [
           {
             "id": "c76868ab3a1f07f0",
@@ -140,15 +141,15 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
-        "id": "6858e18f6d44c377",
+        "id": "aac1779ca9c1a890",
         "type": "tabs",
-        "dimension": 63.671875,
+        "dimension": 66.2109375,
         "children": [
           {
-            "id": "61183db3040da1cf",
+            "id": "4f3c771624cbb86f",
             "type": "leaf",
             "state": {
               "type": "memos_view",
@@ -174,17 +175,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "26c0e4d860fb01f0",
+  "active": "1d118c6d852df0f2",
   "lastOpenFiles": [
     "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+    "00. Daily Notes/2023/April/30-04-2023, Sunday.md",
+    "00. Daily Notes/2023/April",
     "01. Templates/daily note template.md",
     "00. Daily Notes/2023/May",
     "00. Daily Notes/2023",
     "Blogs/Recording 20230501165051.webm",
     "Blogs/Recording 20230501165115.webm",
     "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
-    "00. Daily Notes/2023/April/30-04-2023, Sunday.md",
-    "00. Daily Notes/2023/April",
     "2023/April/30-04-2023, Sunday.md",
     "2023/April",
     "2023",
