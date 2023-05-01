@@ -29,20 +29,5 @@
 > hide due date  
 > hide backlink
 
-> [!tip]+ Habit Tracker  
-> ALX:: 0  
-> ExploreAI:: 0  
-> Reading:: 0  
-> Writing:: 0  
-
-```dataview  
-TABLE WITHOUT ID  
-file.link as Date,  
-choice(ALX > 7, "🟩", "🟥") as 👨🏽‍💻,  
-choice(ExploreAI > 30, "🟩", "🟥") as 📈,  
-choice(Reading > 30, "🟩", "🟥") as 📚,  
-choice(Writing > 750, "🟩", "🟥") as ✍️  
-FROM #dailies  
-WHERE file.day <= date(now) AND file.day >= date(now) - dur(7days)  
-SORT file.day ASC  
-```
+## Tasks for Today
+- [ ] ***

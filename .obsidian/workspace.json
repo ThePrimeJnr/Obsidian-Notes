@@ -101,35 +101,6 @@
             }
           },
           {
-            "id": "1c86213fd5dda1e3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "c4f3e9f743cb4b80",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "29e046f2517c1639",
             "type": "leaf",
             "state": {
@@ -176,15 +147,15 @@
   },
   "active": "1d118c6d852df0f2",
   "lastOpenFiles": [
-    "01. Templates/daily note template.md",
+    "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
     "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+    "01. Templates/daily note template.md",
     "00. Daily Notes/2023/May",
     "00. Daily Notes/2023",
     "00. Daily Notes/2023/April/30-04-2023, Sunday.md",
     "00. Daily Notes/2023/April",
     "Blogs/Recording 20230501165051.webm",
     "Blogs/Recording 20230501165115.webm",
-    "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
     "2023/April/30-04-2023, Sunday.md",
     "2023/April",
     "2023",
