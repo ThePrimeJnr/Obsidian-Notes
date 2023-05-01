@@ -23,3 +23,11 @@ AWS Comprehend
 
 ## Do your Python Predict before the deadline
 
+- Definition
+	- AWS Polar
+
+Study Later
+	dfkf
+	fdkf
+	fdf
+	
