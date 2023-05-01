@@ -2,17 +2,17 @@
 tag: dailies  
 ---
 
-<< [[2001-05-19|Yesterday]] | [[2001-05-21|Tomorrow]] >>
+<< [[Invalid date|Yesterday]] | [[Invalid date|Tomorrow]] >>
 
 > [!Quote]+ Quote of the Day  
-> > It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.
-> — <cite>Jessamyn West</cite>
+> > It's a good thing to be satisfied with what one has.
+> — <cite>The Buddha</cite>
 
 ```dataview  
 Table without ID L.text As "Today's Goals"  
 From #dailies  
 FLATTEN file.lists As L  
-WHERE meta(L.section).subpath="Action Plan" and file.name= "2001-05-21"  
+WHERE meta(L.section).subpath="Action Plan" and file.name= "Invalid date"  
 ```
 
 > [!tip]+ Habit Tracker  

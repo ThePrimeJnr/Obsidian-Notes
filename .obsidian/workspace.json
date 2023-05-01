@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Daily Notes/2023/May/Monday, 01-05-2023.md",
+                "file": "00. Daily Notes/2023/May/Monday, 1st May 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Daily Notes/2023/May/Monday, 01-05-2023.md",
+                "file": "00. Daily Notes/2023/May/Monday, 1st May 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. Daily Notes/2023/May/Monday, 01-05-2023.md",
+                "file": "00. Daily Notes/2023/May/Monday, 1st May 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Daily Notes/2023/May/Monday, 01-05-2023.md"
+                "file": "00. Daily Notes/2023/May/Monday, 1st May 2023.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "f7cd582ec30c68eb",
   "lastOpenFiles": [
-    "Cloud Computing/Cloud Computing.md",
     "00. Daily Notes/2023/May/Monday, 01-05-2023.md",
+    "00. Daily Notes/2023/May/Monday, 1st May 2023.md",
+    "Cloud Computing/Cloud Computing.md",
     "01. Templates/daily note template.md",
     "2001-05-19.md",
     "00. Daily Notes/2023/May",
