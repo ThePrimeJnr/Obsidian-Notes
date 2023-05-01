@@ -1,11 +1,3 @@
 {
-  "calendar:show-calendar-view": [],
-  "obsidian-tasks-plugin:edit-task": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "C"
-    }
-  ]
+  "calendar:show-calendar-view": []
 }

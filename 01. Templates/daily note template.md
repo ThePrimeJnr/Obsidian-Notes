@@ -3,7 +3,7 @@
 ---tag: dailies---
 ```
 
-<< [[<% fileDate = moment(tp.file.title, 'do-MM-YYYY, dddd').subtract(1, 'd').format('YYYY/MMMM/DD-MM-YYYY, dddd') %>|Yesterday]] | [[<% fileDate = moment(tp.file.title, 'YYYY/MMMM/DD-MM-YYYY, dddd').add(1, 'd').format('YYYY/MMMM/DD-MM-YYYY, dddd') %>|Tomorrow]] >>
+<< [[<% fileDate = moment(tp.file.title, '-MM-YYYY, dddd').subtract(1, 'd').format('YYYY/MMMM/DD-MM-YYYY, dddd') %>|Yesterday]] | [[<% fileDate = moment(tp.file.title, 'YYYY/MMMM/DD-MM-YYYY, dddd').add(1, 'd').format('YYYY/MMMM/DD-MM-YYYY, dddd') %>|Tomorrow]] >>
 
 > [!Quote]+ Quote of the Day  
 > <% tp.web.daily_quote() %>
