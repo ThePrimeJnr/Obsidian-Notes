@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+                "file": "01. Templates/daily note template.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "184f42b716006df2",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+                "file": "01. Templates/daily note template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+                "file": "01. Templates/daily note template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md"
+                "file": "01. Templates/daily note template.md"
               }
             }
           }
@@ -171,13 +170,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "26c0e4d860fb01f0",
   "lastOpenFiles": [
-    "Invalid date.md",
     "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+    "Invalid date.md",
     "30-04-2023, Sunday.md",
     "2023/April/30-04-2023, Sunday.md",
     "2023/April",
