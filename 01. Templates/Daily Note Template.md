@@ -17,8 +17,8 @@
 > ```tasks  
 > not done  
 > due after <% tp.date.yesterday("YYYY-MM-DD") %>  
-> sort by priority 
 > sort by due date   
+> sort by priority 
 > hide due date  
 > hide backlink  
 > limit 5  
@@ -30,5 +30,5 @@
 > hide due date  
 > hide backlink
 
-## TODOs
+## Todos:
 - [ ] *

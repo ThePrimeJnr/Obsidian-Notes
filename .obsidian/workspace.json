@@ -11,30 +11,11 @@
             "id": "93f7c60efadc3cbf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Templates/Daily Note Template.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6629d4cd065e556d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Templates/Daily Note Template.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01. Templates/Daily Note Template.md"
-              }
+              "state": {}
             }
           },
           {
@@ -129,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Templates/Daily Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Templates/Daily Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,15 +148,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6629d4cd065e556d",
+  "active": "93f7c60efadc3cbf",
   "lastOpenFiles": [
     "00. Daily Notes/2023/May/01-05-2023, Monday.md",
     "01. Templates/Daily Note Template.md",
+    "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
     "00. Daily Notes/2023/May",
     "00. Daily Notes/2023",
     "01. Templates/Message Template.md",
     "00. Daily Notes/2023/April/30-04-2023, Sunday.md",
-    "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
     "00. Daily Notes/2023/April",
     "Cloud Computing/AWS Cloud Concepts.md",
     "Untitled.md",
