@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "511ee52d1def09f0",
+            "id": "2b81e3715082a6f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "2b81e3715082a6f7",
+            "id": "dd5427b655a40af2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing Overview.md",
+                "file": "Cloud Computing.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing Overview.md",
+                "file": "Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Computing Overview.md",
+                "file": "Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Computing Overview.md"
+                "file": "Cloud Computing.md"
               }
             }
           }
@@ -159,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b81e3715082a6f7",
+  "active": "dd5427b655a40af2",
   "lastOpenFiles": [
+    "Cloud Computing Overview.md",
+    "Cloud Computing.md",
     "README.md",
     "0. Templates/daily note template.md",
-    "Cloud Computing Overview.md",
     "0. Templates",
     "Cloud Computing Overview"
   ]
