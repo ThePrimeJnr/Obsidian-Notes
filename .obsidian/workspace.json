@@ -11,8 +11,12 @@
             "id": "4370de2b766fa1c5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0. Templates/daily note template.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0. Templates/daily note template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0. Templates/daily note template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0. Templates/daily note template.md"
+              }
             }
           }
         ]
@@ -140,8 +148,8 @@
   },
   "active": "043eaa2fcd9313ed",
   "lastOpenFiles": [
-    "AI & ML in AWS.md",
     "README.md",
+    "AI & ML in AWS.md",
     "Cloud Computing",
     "0. Daily Notes",
     "Cloud Computing/Cloud Computing.md",
