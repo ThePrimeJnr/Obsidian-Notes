@@ -21,6 +21,58 @@
             }
           },
           {
+            "id": "19e697569978edcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f939cc870934c3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ef0780393d64d79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7dbb63b0860e6fdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fd4e0e2bce7992d0",
             "type": "leaf",
             "state": {
@@ -46,7 +98,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Computing/1. AWS Cloud Concepts.md"
+                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md"
               }
             }
           },
@@ -142,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing/1. AWS Cloud Concepts.md",
+                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Computing/1. AWS Cloud Concepts.md",
+                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,10 +237,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0206e1b5645b4ded",
+  "active": "19e697569978edcf",
   "lastOpenFiles": [
-    "00. Daily Notes/2023/May/01-05-2023, Monday.md",
     "Cloud Computing/1. AWS Cloud Concepts.md",
+    "00. Daily Notes/2023/May/01-05-2023, Monday.md",
     "Cloud Computing/0. Cloud Computing Overview.md",
     "2023-01-01.md",
     "^202.md",
