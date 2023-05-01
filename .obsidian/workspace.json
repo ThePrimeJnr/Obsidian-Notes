@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Templates/daily note template.md",
+                "file": "01. Templates/Daily Note Template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "976d7bea2a943d2c",
+            "id": "7980641dc40e9aa0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Templates/Untitled.md",
+                "file": "Messages/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Templates/Untitled.md"
+                "file": "Messages/Untitled.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Templates/Untitled.md",
+                "file": "Messages/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Templates/Untitled.md",
+                "file": "Messages/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,13 +184,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "976d7bea2a943d2c",
+  "active": "7980641dc40e9aa0",
   "lastOpenFiles": [
-    "01. Templates/daily note template.md",
-    "01. Templates/Untitled.md",
     "00. Daily Notes/2023/May/01-05-2023, Monday.md",
-    "Cloud Computing/Cloud Computing.md",
+    "Messages/Untitled.md",
     "Untitled.canvas",
+    "01. Templates/Message Template.md",
+    "01. Templates/Daily Note Template.md",
+    "Cloud Computing/Cloud Computing.md",
     "Cloud Computing/AWS Cloud Concepts.md",
     "Untitled.md",
     "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
@@ -218,8 +219,6 @@
     "01. Templates/Daily Notes(Task Edition)/Journal/2023/April/2023-04-19.md",
     "01. Templates/Daily Notes(Task Edition)/Journal/2023/April/2023-04-18.md",
     "01. Templates/Daily Notes(Task Edition)/Journal/2023/April/2023-04-17.md",
-    "01. Templates/Daily Notes(Task Edition)/Journal/2023/April/2023-04-16.md",
-    "01. Templates/Daily Notes(Task Edition)/Journal/2023/April/2023-04-14.md",
     "01. Templates/Daily Notes(Task Edition)/Journal/2023/April",
     "01. Templates/Daily Notes(Task Edition)/Journal/2023",
     "01. Templates/Daily Notes(Task Edition)/Templates"
