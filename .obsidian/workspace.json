@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing.md",
+                "file": "AI & ML in AWS.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing.md",
+                "file": "AI & ML in AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Computing.md",
+                "file": "AI & ML in AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Computing.md"
+                "file": "AI & ML in AWS.md"
               }
             }
           }
@@ -148,10 +148,9 @@
   },
   "active": "043eaa2fcd9313ed",
   "lastOpenFiles": [
+    "Cloud Computing.md",
     "Blogs",
     "Messages",
-    "Cloud Computing.md",
-    "Cloud Computing.md",
     "README.md",
     "AI & ML in AWS.md",
     "Blog Post.md",
