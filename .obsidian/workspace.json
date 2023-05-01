@@ -6,7 +6,6 @@
       {
         "id": "a4f213dc0ba16d54",
         "type": "tabs",
-        "dimension": 71.51556156968877,
         "children": [
           {
             "id": "f9837aecd25e5865",
@@ -14,34 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+                "file": "01. Templates/daily note template.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "4c92e0f47c0793d3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "6b2e8c6da1ef93f4",
-        "type": "tabs",
-        "dimension": 28.484438430311233,
-        "children": [
-          {
-            "id": "61183db3040da1cf",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
             }
           }
         ]
@@ -103,6 +78,7 @@
       {
         "id": "db5edb31ec9b0e1c",
         "type": "tabs",
+        "dimension": 36.328125,
         "children": [
           {
             "id": "c76868ab3a1f07f0",
@@ -116,41 +92,6 @@
             }
           },
           {
-            "id": "8ebb452bf3f97a6e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "5eb1b01a337f562e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "eba603112572c767",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
             "id": "0bb202729f673a35",
             "type": "leaf",
             "state": {
@@ -158,12 +99,27 @@
               "state": {}
             }
           }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6858e18f6d44c377",
+        "type": "tabs",
+        "dimension": 63.671875,
+        "children": [
+          {
+            "id": "61183db3040da1cf",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 395.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,11 +133,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4c92e0f47c0793d3",
+  "active": "f9837aecd25e5865",
   "lastOpenFiles": [
+    "2002-05-19.md",
+    "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
     "00. Daily Notes/2023/May/01-05-2023, Monday.md",
-    "2001-05-21.md",
     "01. Templates/daily note template.md",
+    "2023-W18.md",
+    "2001-05-21.md",
     "Untitled.md",
     "01. Templates/Daily Notes(Task Edition)/Journal/2023/April/2023-04-24.md",
     "01. Templates/Daily Notes(Task Edition)/Journal/2023/April/2023-04-23.md",
@@ -206,10 +165,7 @@
     "01. Templates/Daily Notes(Task Edition)/Journal",
     "01. Templates/Daily Notes(Task Edition)/Important Task Queries.md",
     "01. Templates/Daily Notes(Task Edition)/Habit Tracker.md",
-    "01. Templates/Daily Notes(Task Edition)/Action Dashboard.md",
-    "01. Templates/Daily Notes(Task Edition)/All completed Tasks.md",
     "01. Templates/Daily Notes(Task Edition)",
-    "Daily Notes(Task Edition)/Journal/2023/April/2023-04-24.md",
     "Daily Notes(Task Edition)/Journal/2023/April",
     "Daily Notes(Task Edition)/Journal/2023",
     "Daily Notes(Task Edition)/Templates",
