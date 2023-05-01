@@ -11,8 +11,13 @@
             "id": "95c964624ecc2945",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01. Templates/Daily Note Template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01. Templates/Daily Note Template.md"
+              }
             }
           },
           {
@@ -108,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01. Templates/Daily Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01. Templates/Daily Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,23 +157,23 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "043eaa2fcd9313ed",
+  "active": "95c964624ecc2945",
   "lastOpenFiles": [
-    "00. Daily Notes/2023/April/30-04-2023, Sunday.md",
     "00. Daily Notes/2023/May/01-05-2023, Monday.md",
-    "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
     "01. Templates/Daily Note Template.md",
-    "00. Daily Notes/2023/April",
+    "00. Daily Notes/2023/May",
+    "00. Daily Notes/2023",
+    "01. Templates/Message Template.md",
     "Cloud Computing/AWS Cloud Concepts.md",
+    "00. Daily Notes/2023/April/30-04-2023, Sunday.md",
+    "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
+    "00. Daily Notes/2023/April",
     "Untitled.md",
     "Untitled.canvas",
     "02. Media",
     "Cloud Computing/Cloud Computing.md",
     "Messages/Untitled.md",
-    "01. Templates/Message Template.md",
     "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
-    "00. Daily Notes/2023/May",
-    "00. Daily Notes/2023",
     "Blogs/Recording 20230501165051.webm",
     "Blogs/Recording 20230501165115.webm",
     "2023/April/30-04-2023, Sunday.md",
