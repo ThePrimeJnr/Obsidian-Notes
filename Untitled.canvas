@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"a18cff4ea67d9715","x":-276,"y":-137,"width":400,"height":400,"type":"file","file":"Cloud Computing/Cloud Computing.md"},
-		{"id":"c20084f8f14a269b","x":-300,"y":-300,"width":250,"height":60,"color":"1","type":"text","text":"Cloud Computing"}
-	],
-	"edges":[
-		{"id":"5cdc2f35ac864b92","fromNode":"c20084f8f14a269b","fromSide":"bottom","toNode":"a18cff4ea67d9715","toSide":"top"}
-	]
-}
