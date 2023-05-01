@@ -28,11 +28,6 @@
 > limit 5  
 > ```
 
-> [!Warning]+ Unscheduled Tasks  
-> ```tasks  
-> not done  
-> no due date
-
 > [!success]+ Tasks Done Today  
 > ```tasks  
 > done <% tp.date.now("YYYY-MM-DD") %>  
@@ -40,33 +35,19 @@
 > hide backlink
 
 > [!tip]+ Habit Tracker  
-> Sleep:: 0  
+> ALX:: 0  
+> ExploreAI:: 0  
 > Reading:: 0  
-> Exercise:: 0  
-> Meditation:: 0  
-> Writing::
+> Writing:: 0  
 
 ```dataview  
 TABLE WITHOUT ID  
 file.link as Date,  
-choice(Sleep > 7, "🟩", "🟥") as 🛌,  
-choice(Exercise > 30, "🟩", "🟥") as 🏃,  
+choice(ALX > 7, "🟩", "🟥") as 👨🏽‍💻,  
+choice(ExploreAI > 30, "🟩", "🟥") as 🏃,  
 choice(Reading > 30, "🟩", "🟥") as 📚,  
-choice(Meditation > 10, "🟩", "🟥") as 🧘,  
 choice(Writing > 750, "🟩", "🟥") as ✍️  
 FROM #dailies  
 WHERE file.day <= date(now) AND file.day >= date(now) - dur(7days)  
 SORT file.day ASC  
 ```
-
-> [!abstract]+ What am I grateful for?  
-> - 1  
-> - 2  
-> - 3
- 
->[!Important]+ Highlights of the Day  
->- 1  
->- 2  
->- 3
-
-
