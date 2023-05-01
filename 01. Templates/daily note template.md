@@ -3,7 +3,7 @@
 ---tag: dailies---
 ```
 
-<< [[<% fileDate = moment(tp.file.title, 'DD-MM-YYYY, dddd').subtract(1, 'd').format('YYYY/MMMM/DD-MM-YYYY, dddd') %>|Yesterday]] | [[<% fileDate = moment(tp.file.title, 'YYYY/MMMM/DD-MM-YYYY, dddd').add(1, 'd').format('YYYY/MMMM/DD-MM-YYYY, dddd') %>|Tomorrow]] >>
+<< [[<% fileDate = moment(tp.file.title, 'do-MM-YYYY, dddd').subtract(1, 'd').format('YYYY/MMMM/DD-MM-YYYY, dddd') %>|Yesterday]] | [[<% fileDate = moment(tp.file.title, 'YYYY/MMMM/DD-MM-YYYY, dddd').add(1, 'd').format('YYYY/MMMM/DD-MM-YYYY, dddd') %>|Tomorrow]] >>
 
 > [!Quote]+ Quote of the Day  
 > <% tp.web.daily_quote() %>
@@ -44,7 +44,7 @@
 TABLE WITHOUT ID  
 file.link as Date,  
 choice(ALX > 7, "🟩", "🟥") as 👨🏽‍💻,  
-choice(ExploreAI > 30, "🟩", "🟥") as 🏃,  
+choice(ExploreAI > 30, "🟩", "🟥") as 📈,  
 choice(Reading > 30, "🟩", "🟥") as 📚,  
 choice(Writing > 750, "🟩", "🟥") as ✍️  
 FROM #dailies  

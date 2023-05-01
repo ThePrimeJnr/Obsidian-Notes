@@ -15,6 +15,7 @@
               "state": {
                 "file": "01. Templates/daily note template.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -158,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5,
-    "collapsed": true
+    "width": 395.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,16 +174,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "26c0e4d860fb01f0",
+  "active": "043eaa2fcd9313ed",
   "lastOpenFiles": [
     "00. Daily Notes/2023/May/01-05-2023, Monday.md",
-    "Invalid date.md",
     "30-04-2023, Sunday.md",
     "2023/April/30-04-2023, Sunday.md",
+    "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
+    "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
+    "01. Templates/daily note template.md",
+    "Invalid date.md",
+    "00. Daily Notes/2023/May",
+    "00. Daily Notes/2023",
     "2023/April",
     "2023",
-    "01. Templates/daily note template.md",
-    "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
     "2002-05-19.md",
     "2023-W18.md",
     "2001-05-21.md",
@@ -206,11 +209,8 @@
     "01. Templates/Daily Notes(Task Edition)/Unscheduled Tasks.md",
     "01. Templates/Daily Notes(Task Edition)/This Week's Task.md",
     "01. Templates/Daily Notes(Task Edition)/Templates",
-    "01. Templates/Daily Notes(Task Edition)/Tasks Sample.md",
     "01. Templates/Daily Notes(Task Edition)/Journal",
     "01. Templates/Daily Notes(Task Edition)",
-    "Daily Notes(Task Edition)/Journal/2023/April",
-    "Daily Notes(Task Edition)/Journal/2023",
-    "Daily Notes(Task Edition)/Templates"
+    "Daily Notes(Task Edition)/Journal/2023/April"
   ]
 }
