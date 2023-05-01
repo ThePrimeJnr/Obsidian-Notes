@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+                "file": "Cloud Computing/0. Cloud Computing Overview.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#fdff",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,14 +185,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "593810b52579ecc6",
+  "active": "d0078cc0c847dd4f",
   "lastOpenFiles": [
-    "2023-01-01.md",
-    "00. Daily Notes/2023/May/01-05-2023, Monday.md",
-    "^202.md",
     "Cloud Computing/1. AWS Cloud Concepts.md",
-    "Untitled.md",
+    "00. Daily Notes/2023/May/01-05-2023, Monday.md",
     "Cloud Computing/0. Cloud Computing Overview.md",
+    "2023-01-01.md",
+    "^202.md",
+    "Untitled.md",
     "00. Daily Notes/2023/April/30-04-2023, Sunday.md",
     "00. Daily Notes/2023/April",
     "01. Templates/Daily Note Template.md",
