@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+                "file": "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md"
+                "file": "00. Daily Notes/2023/May/02-05-2023, Tuesday.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+                "file": "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+                "file": "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,10 +157,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6b0cccdfdf8bdebc",
+  "active": "57b8f862a26efedc",
   "lastOpenFiles": [
-    "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
     "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+    "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
     "Cloud Computing/1. AWS Cloud Concepts.md",
     "Cloud Computing/0. Cloud Computing Overview.md",
     "01. Templates/Daily Note Template.md",
