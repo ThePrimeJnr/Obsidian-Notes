@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Cloud Computing Overview.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -159,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "043eaa2fcd9313ed",
+  "active": "2b81e3715082a6f7",
   "lastOpenFiles": [
     "README.md",
     "0. Templates/daily note template.md",
