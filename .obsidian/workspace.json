@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+                "file": "Cloud Computing/1. AWS Cloud Concepts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md"
+                "file": "Cloud Computing/1. AWS Cloud Concepts.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+                "file": "Cloud Computing/1. AWS Cloud Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+                "file": "Cloud Computing/1. AWS Cloud Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,8 +160,8 @@
   },
   "active": "57b8f862a26efedc",
   "lastOpenFiles": [
-    "01. Templates/Daily Note Template.md",
     "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+    "01. Templates/Daily Note Template.md",
     "01. Templates/Study Note Template.md",
     "00. Daily Notes/2023/May",
     "00. Daily Notes/2023",
@@ -175,7 +175,7 @@
     "Untitled.md",
     "00. Daily Notes/2023/April",
     "Untitled.canvas",
-    "02. Media",
+    "02. Attachments",
     "Messages/Untitled.md",
     "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
     "Blogs/Recording 20230501165051.webm",
