@@ -15,7 +15,7 @@
               "state": {
                 "file": "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -79,6 +79,7 @@
       {
         "id": "db5edb31ec9b0e1c",
         "type": "tabs",
+        "dimension": 32.51953125,
         "children": [
           {
             "id": "c76868ab3a1f07f0",
@@ -88,19 +89,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "57b8f862a26efedc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00. Daily Notes/2023/May/01-05-2023, Monday.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
               }
             }
           },
@@ -153,6 +141,26 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "fe8d59faaaaa67ab",
+        "type": "tabs",
+        "dimension": 67.48046875,
+        "children": [
+          {
+            "id": "6552f6bb54d6213f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,15 +180,15 @@
   },
   "active": "079e4a55be6f8a12",
   "lastOpenFiles": [
-    "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
+    "Cloud Computing/0. Cloud Computing Overview.md",
     "01. Templates/Daily Note Template.md",
+    "01. Templates/Message Template.md",
+    "01. Templates/Study Note Template.md",
+    "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
     "00. Daily Notes/2023/May/01-05-2023, Monday.md",
     "Cloud Computing/1. AWS Cloud Concepts.md",
-    "01. Templates/Study Note Template.md",
     "00. Daily Notes/2023/May",
     "00. Daily Notes/2023",
-    "01. Templates/Message Template.md",
-    "Cloud Computing/0. Cloud Computing Overview.md",
     "00. Daily Notes/2023/April/30-04-2023, Sunday.md",
     "2023-01-01.md",
     "^202.md",
