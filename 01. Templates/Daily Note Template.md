@@ -28,6 +28,9 @@ Tags: #Daily-Notes
 > done <% tp.date.now("YYYY-MM-DD") %>  
 > hide due date  
 
-## 
+## Morning Routines:
+- [ ] *
+
 ## Meetings:
 - [ ] *
+
