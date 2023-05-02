@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 553.5
+    "width": 553.5,
+    "collapsed": true
   },
   "right": {
     "id": "184f42b716006df2",
@@ -158,7 +159,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "079e4a55be6f8a12",
+  "active": "043eaa2fcd9313ed",
   "lastOpenFiles": [
     "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
     "Cloud Computing/2. AWS Cloud Concepts.md",
