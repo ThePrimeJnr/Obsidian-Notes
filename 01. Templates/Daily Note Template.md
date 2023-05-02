@@ -30,6 +30,7 @@ Tags: #Daily-Notes
 
 ## Morning Routines:
 - [ ] Check and Attend to Urgent Emails
+- [ ] Confirm Meetings on Calendar
 - [ ] Review Projects and Assignments for the Day
 - [ ] Engage on Social Media (Twitter, WhatsApp, LinkedIn)
 - [ ] Plan and Set Tasks for the Day
