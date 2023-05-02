@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md"
+                "file": "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
+                "file": "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
+                "file": "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,10 +186,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4f68d2d86d19e9e3",
+  "active": "979b64a428d546b2",
   "lastOpenFiles": [
-    "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
     "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
+    "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
     "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
     "Blogs/Gnome Dash and Panel Glitch.md",
     "conflict-files-obsidian-git.md",
