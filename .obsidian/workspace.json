@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31e8e2367a529942",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
+                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md"
+                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md"
               }
             }
           },
@@ -129,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
+                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
+                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,18 +158,18 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "31e8e2367a529942",
+  "active": "043eaa2fcd9313ed",
   "lastOpenFiles": [
-    "Cloud Computing/2. AWS Cloud Concepts/2..md",
     "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
+    "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
     "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
+    "01. Templates/Study Note Template.md",
+    "01. Templates/Message Template.md",
     "Cloud Computing/1. Cloud Computing Overview",
     "Cloud Computing/2. AWS Cloud Concepts",
     "Cloud Computing/1. Cloud Computing Overview/1. Cloud Computing Overview.md",
     "00. Daily Notes/2023/May/01-05-2023, Monday.md",
     "01. Templates/Daily Note Template.md",
-    "01. Templates/Message Template.md",
-    "01. Templates/Study Note Template.md",
     "00. Daily Notes/2023/May",
     "00. Daily Notes/2023",
     "00. Daily Notes/2023/April/30-04-2023, Sunday.md",
