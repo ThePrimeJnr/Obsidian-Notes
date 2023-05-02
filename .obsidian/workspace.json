@@ -24,8 +24,13 @@
             "id": "979b64a428d546b2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md"
+              }
             }
           },
           {
@@ -136,6 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,6 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
