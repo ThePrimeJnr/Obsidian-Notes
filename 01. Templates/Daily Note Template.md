@@ -1,3 +1,4 @@
+Tags: #Daily-Notes
 << [[00. Daily Notes/<% fileDate = moment(tp.file.title, 'DD-MM-YYYY, dddd').subtract(1, 'd').format('YYYY/MMMM/DD-MM-YYYY, dddd') %>|Yesterday]] | [[00. Daily Notes/<% fileDate = moment(tp.file.title, 'DD-MM-YYYY, dddd').add(1, 'd').format('YYYY/MMMM/DD-MM-YYYY, dddd') %>|Tomorrow]] >>
 
 > [!Quote]+ Quote of the Day  
@@ -27,5 +28,5 @@
 > done <% tp.date.now("YYYY-MM-DD") %>  
 > hide due date  
 
-## Todos:
+## M:
 - [ ] *
