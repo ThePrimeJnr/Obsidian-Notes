@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "28dda33ce70f050e",
+        "id": "f2b6e5ec94047cb5",
         "type": "tabs",
         "children": [
           {
-            "id": "15281d7050f9944b",
+            "id": "a0aa0a0f7bf8e2f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -158,12 +158,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "15281d7050f9944b",
+  "active": "a0aa0a0f7bf8e2f5",
   "lastOpenFiles": [
-    "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
     "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
-    "Messages/Believers' Praiseworthy Pursuit after God's Glorious Visitation.md",
+    "conflict-files-obsidian-git.md",
+    "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
     "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
+    "Messages/Believers' Praiseworthy Pursuit after God's Glorious Visitation.md",
     "01. Templates/Study Note Template.md",
     "01. Templates/Message Template.md",
     "Cloud Computing/1. Cloud Computing Overview",
@@ -195,7 +196,6 @@
     "01. Templates/Daily Notes(Task Edition)/Journal/2023/April/2023-04-24.md",
     "01. Templates/Daily Notes(Task Edition)/Journal/2023/April/2023-04-23.md",
     "01. Templates/Daily Notes(Task Edition)/Journal/2023/April/2023-04-22.md",
-    "01. Templates/Daily Notes(Task Edition)/Journal/2023/April/2023-04-21.md",
-    "01. Templates/Daily Notes(Task Edition)/Journal/2023/April/2023-04-20.md"
+    "01. Templates/Daily Notes(Task Edition)/Journal/2023/April/2023-04-21.md"
   ]
 }

@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI & ML in AWS.md",
-                "mode": "source",
+                "file": "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
+                "mode": "preview",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "AI & ML in AWS.md",
+            "file": "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "AI & ML in AWS.md",
+            "file": "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,8 +115,16 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "AI & ML in AWS.md"
+            "file": "00. Daily Notes/2023/May/02-05-2023, Tuesday.md"
           }
+        }
+      },
+      {
+        "id": "373429267377c4da",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
         }
       }
     ],
@@ -123,6 +132,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -133,6 +144,23 @@
   },
   "active": "644f0b3375f46eb5",
   "lastOpenFiles": [
+    "/00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
+    "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
+    "Messages/Believers' Praiseworthy Pursuit after God's Glorious Visitation.md",
+    "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
+    "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
+    "Cloud Computing/1. Cloud Computing Overview/1. Cloud Computing Overview.md",
+    "/Messages/Believers' Praiseworthy Pursuit after God's Glorious Visitation.md",
+    "/Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
+    "/Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
+    "/Cloud Computing/1. Cloud Computing Overview/1. Cloud Computing Overview.md",
+    "/01. Templates/Study Note Template.md",
+    "Messages",
+    "Cloud Computing/2. AWS Cloud Concepts",
+    "Cloud Computing/1. Cloud Computing Overview",
+    "/Messages",
+    "/Cloud Computing/2. AWS Cloud Concepts",
+    "/Cloud Computing/1. Cloud Computing Overview",
     "Cloud Computing.md",
     "/Cloud Computing.md",
     "AI & ML in AWS.md",
