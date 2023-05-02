@@ -16,6 +16,7 @@ Tags: #Daily-Notes
 > [!todo]+ Today's Tasks  
 > ```tasks  
 > not done  
+> scheduled before <% tp.date.tomorrow("YYYY-MM-DD") %>  
 > due after <% tp.date.yesterday("YYYY-MM-DD") %>  
 > sort by due date   
 > sort by priority 
