@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
+                "file": "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 553.5,
-    "collapsed": true
+    "width": 553.5
   },
   "right": {
     "id": "184f42b716006df2",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md"
+                "file": "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md"
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
+                "file": "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
+                "file": "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,9 +161,9 @@
   "active": "15281d7050f9944b",
   "lastOpenFiles": [
     "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
+    "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
     "Messages/Believers' Praiseworthy Pursuit after God's Glorious Visitation.md",
     "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
-    "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
     "01. Templates/Study Note Template.md",
     "01. Templates/Message Template.md",
     "Cloud Computing/1. Cloud Computing Overview",
