@@ -12,5 +12,5 @@ li.plugin-tasks-list-item span.tasks-backlink > a {
 }
     
 body:not(.is-mobile) .markdown-source-view.mod-cm6.is-readable-line-width .inline-title {
-  margin-left: 0 !important;
+  margin-left: auto !important;
 }

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fea675eaa619c5ef",
+        "id": "28dda33ce70f050e",
         "type": "tabs",
         "children": [
           {
-            "id": "079e4a55be6f8a12",
+            "id": "15281d7050f9944b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b82c7d43bbff4fe0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Messages/Untitled.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Messages/Untitled.md"
+                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md"
               }
             }
           },
@@ -129,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Messages/Untitled.md",
+                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Messages/Untitled.md",
+                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,12 +158,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b82c7d43bbff4fe0",
+  "active": "15281d7050f9944b",
   "lastOpenFiles": [
-    "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
-    "Messages/Untitled.md",
-    "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
     "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
+    "Messages/Believers' Praiseworthy Pursuit after God's Glorious Visitation.md",
+    "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
+    "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
     "01. Templates/Study Note Template.md",
     "01. Templates/Message Template.md",
     "Cloud Computing/1. Cloud Computing Overview",
