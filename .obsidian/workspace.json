@@ -6,9 +6,30 @@
       {
         "id": "fea675eaa619c5ef",
         "type": "tabs",
+        "dimension": 66.32860040567951,
         "children": [
           {
             "id": "079e4a55be6f8a12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "43e42efed681dc35",
+        "type": "tabs",
+        "dimension": 33.67139959432049,
+        "children": [
+          {
+            "id": "6552f6bb54d6213f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,7 +100,6 @@
       {
         "id": "db5edb31ec9b0e1c",
         "type": "tabs",
-        "dimension": 32.51953125,
         "children": [
           {
             "id": "c76868ab3a1f07f0",
@@ -141,30 +161,11 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "fe8d59faaaaa67ab",
-        "type": "tabs",
-        "dimension": 67.48046875,
-        "children": [
-          {
-            "id": "6552f6bb54d6213f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 330.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
