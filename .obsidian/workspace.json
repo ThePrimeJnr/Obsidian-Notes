@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "4f68d2d86d19e9e3",
+            "id": "979b64a428d546b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4f68d2d86d19e9e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md"
+                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md"
               }
             }
           },
@@ -130,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
+                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
+                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,12 +186,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "043eaa2fcd9313ed",
+  "active": "4f68d2d86d19e9e3",
   "lastOpenFiles": [
-    "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
-    "Blogs/Gnome Dash and Panel Glitch.md",
     "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
     "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
+    "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
+    "Blogs/Gnome Dash and Panel Glitch.md",
     "conflict-files-obsidian-git.md",
     "Messages/Believers' Praiseworthy Pursuit after God's Glorious Visitation.md",
     "01. Templates/Study Note Template.md",
