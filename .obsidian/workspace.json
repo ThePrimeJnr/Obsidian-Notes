@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "31e8e2367a529942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,10 +172,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "079e4a55be6f8a12",
+  "active": "31e8e2367a529942",
   "lastOpenFiles": [
-    "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
+    "Cloud Computing/2. AWS Cloud Concepts/2..md",
     "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
+    "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
     "Cloud Computing/1. Cloud Computing Overview",
     "Cloud Computing/2. AWS Cloud Concepts",
     "Cloud Computing/1. Cloud Computing Overview/1. Cloud Computing Overview.md",
