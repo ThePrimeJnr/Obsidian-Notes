@@ -29,13 +29,13 @@ Tags: #Daily-Notes
 > hide due date  
 
 ## Morning Routines:
-- [ ] Check and Attend to Emails
-- [ ] Check Projects and Assignments for the Day
-- [ ] Check on my Socials (Twitter, WhatsApp, LinkedIn)
-- [ ] Prepare my Daily Note for the Day
+- [ ] Check and Attend to Urgent Emails
+- [ ] Review Projects and Assignments for the Day
+- [ ] Engage on Social Media (Twitter, WhatsApp, LinkedIn)
+- [ ] Plan and Set Tasks for the Day
 
 ## Meetings:
-	- [ ] *
+- [ ] *
 
 ## To-dos:
 - [ ] *

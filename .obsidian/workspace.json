@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Templates/Daily Note Template.md",
+                "file": "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Templates/Daily Note Template.md"
+                "file": "00. Daily Notes/2023/May/02-05-2023, Tuesday.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Templates/Daily Note Template.md",
+                "file": "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Templates/Daily Note Template.md",
+                "file": "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,8 +173,8 @@
   "active": "079e4a55be6f8a12",
   "lastOpenFiles": [
     "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
-    "00. Daily Notes/2023/May/01-05-2023, Monday.md",
     "01. Templates/Daily Note Template.md",
+    "00. Daily Notes/2023/May/01-05-2023, Monday.md",
     "Cloud Computing/1. AWS Cloud Concepts.md",
     "01. Templates/Study Note Template.md",
     "00. Daily Notes/2023/May",
