@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
+                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md"
+                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
+                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
+                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,10 +160,10 @@
   },
   "active": "a0aa0a0f7bf8e2f5",
   "lastOpenFiles": [
+    "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
     "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
     "conflict-files-obsidian-git.md",
     "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
-    "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
     "Messages/Believers' Praiseworthy Pursuit after God's Glorious Visitation.md",
     "01. Templates/Study Note Template.md",
     "01. Templates/Message Template.md",
