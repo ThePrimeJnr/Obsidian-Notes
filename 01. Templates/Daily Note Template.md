@@ -35,7 +35,7 @@ Tags: #Daily-Notes
 - [ ] Prepare my Daily Note for the Day
 
 ## Meetings:
-- [ ] *
+	- [ ] *
 
 ## To-dos:
 - [ ] *
