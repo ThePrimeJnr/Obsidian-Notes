@@ -17,4 +17,3 @@ Machine Learning is responsible for many visible changes we can see around us, i
 
 machine learing combines statistics, computer science and applied math
 
-Traditional Problem Solving vs Machine learning
