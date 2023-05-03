@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
+                "file": "Introduction to Machine Learing/What is Machine Learning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Daily Notes/2023/May/03-05-2023, Wednesday.md"
+                "file": "Introduction to Machine Learing/What is Machine Learning.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
+                "file": "Introduction to Machine Learing/What is Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
+                "file": "Introduction to Machine Learing/What is Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,8 +174,8 @@
   },
   "active": "5f028a6bd1c721c1",
   "lastOpenFiles": [
-    "Introduction to Machine Learing/What is Machine Learning.md",
     "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
+    "Introduction to Machine Learing/What is Machine Learning.md",
     "Introduction to Machine Learing/Introductio.md",
     "Introduction to Machine Learing",
     "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
