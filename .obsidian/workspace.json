@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Introduction to Machine Learning.md",
+                "file": "Introduction to Machine Learing/Introduction.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c91b379dfc5db286",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to Machine Learing/What is Machine Learning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -80,8 +93,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Introduction to Machine Learning.md"
+                "file": "Introduction to Machine Learing/What is Machine Learning.md"
               }
             }
           },
@@ -131,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Introduction to Machine Learning.md",
+                "file": "Introduction to Machine Learing/What is Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Introduction to Machine Learning.md",
+                "file": "Introduction to Machine Learing/What is Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,12 +199,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7ac6ef9ed6837710",
+  "active": "043eaa2fcd9313ed",
   "lastOpenFiles": [
+    "Introduction to Machine Learing/Introduction.md",
+    "Introduction to Machine Learing/What is Machine Learning.md",
     "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
-    "Machine Learning/Introduction to Machine Learning.md",
     "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
-    "Machine Learning",
+    "Introduction to Machine Learing",
     "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
     "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
     "00. Daily Notes/2023/May/01-05-2023, Monday.md",
@@ -225,7 +238,6 @@
     "2002-05-19.md",
     "2023-W18.md",
     "2001-05-21.md",
-    "01. Templates/Daily Notes(Task Edition)/Journal/2023/April/2023-04-24.md",
-    "01. Templates/Daily Notes(Task Edition)/Journal/2023/April/2023-04-23.md"
+    "01. Templates/Daily Notes(Task Edition)/Journal/2023/April/2023-04-24.md"
   ]
 }
