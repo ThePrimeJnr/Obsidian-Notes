@@ -9,11 +9,11 @@ Machine Learning is responsible for many visible changes we can see around us, i
 - Workers safety e.t.c.
 
 - AI is the capability of Machine to perform activities with human like intelligence
-- Machine learning allows computer to learn and discovered  new patterns from past experince without being programmed to do so.
+- Machine learning allows computer to learn and discovered  new patterns from past experience without being programmed to do so.
 - Machine learning enable computer to make predictions
 - Supervised learning: model is trained on data and the patterns are explained to the model
 - unsupervised learning: model is trained on a data but groups the data itself and creates patterns
-- reinforcemetn learing: learnslike a dog, it learns from being rewarded for right actions and a penalty for wrong actions.
+- reinforcement learning: learns like a dog, it learns from being rewarded for right actions and a penalty for wrong actions.
 
-machine learing combines statistics, computer science and applied math
+machine learning combines statistics, computer science and applied maths
 
