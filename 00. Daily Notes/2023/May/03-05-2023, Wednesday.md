@@ -42,7 +42,7 @@ Tags: #Daily-Notes
 - [x] Introduction to Together Mentoring #Random #Mentorship 🔼 ⏳ 2023-05-03 📅 2023-05-03 ✅ 2023-05-03
 
 ## To-dos:
-- [/] Study Introduction to Machine Learning ⏳ 2023-05-03 📅 2023-05-04 #Machine-Learning #AI #AWS ⏫ ^04aa9b
-- [ ] Begin Studying C programming from beginning on Coursera #ALX #C #Programming #Peer-Learning #Study #Coursera 📅 2023-05-03 ⏳ 2023-05-03 ⏫ 
+- [x] Study Introduction to Machine Learning #Machine-Learning #AI #AWS ⏫ ⏳ 2023-05-03 📅 2023-05-04 ✅ 2023-05-03 ^04aa9b
+- [x] Begin Studying C programming from beginning on Coursera #ALX #C #Programming #Peer-Learning #Study #Coursera ⏫ ⏳ 2023-05-03 📅 2023-05-03 ✅ 2023-05-03
 - [x] Assist a private student with Microsoft Excel and PowerPoint #Excel #PowerPoint #Random ⏳ 2023-05-03 📅 2023-05-03 ✅ 2023-05-03
-- [ ] Fix Bugs on AppFlowy's Divider Shortcut ⏳ 2023-05-03 📅 2023-05-06 #GitHub #Bug-Fixes #App-Dev
+- [x] Fix Bugs on AppFlowy's Divider Shortcut #GitHub #Bug-Fixes #App-Dev ⏳ 2023-05-03 📅 2023-05-06 ✅ 2023-05-03
