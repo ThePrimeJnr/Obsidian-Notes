@@ -15,4 +15,6 @@ Machine Learning is responsible for many visible changes we can see around us, i
 - unsupervised learning: model is trained on a data but groups the data itself and creates patterns
 - reinforcemetn learing: learnslike a dog, it learns from being rewarded for right actions and a penalty for wrong actions.
 
-Traditional Prob solving vs machne learning
+machine learing combines statistics, computer science and applied math
+
+Traditional Problem Solving vs Machine learning
