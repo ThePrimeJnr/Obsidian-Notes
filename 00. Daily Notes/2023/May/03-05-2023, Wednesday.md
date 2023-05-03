@@ -39,7 +39,8 @@ Tags: #Daily-Notes
 
 ## Meetings:
 - [ ] Attend Masterclass: Ace your presentation #Meetings #Explore-Academy #Presentation ⏳ 2023-05-03 📅 2023-05-03 🔼 
-- [ ] Peer 
+- [ ] Peer Learning with ALX students on C Programming
+- [ ] Meet with 
 
 ## To-dos:
 - [ ] Study Introduction to Machine Learning ⏳ 2023-05-03 📅 2023-05-04 #ML #AI #AWS 
