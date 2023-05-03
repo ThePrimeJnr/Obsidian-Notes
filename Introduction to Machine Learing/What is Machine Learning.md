@@ -9,4 +9,5 @@ Machine Learning is responsible for many visible changes we can see around us, i
 - Workers safety e.t.c.
 
 - AI is the capability of Machine to perform activities with human like intelligence
-- Machine learning allows computer to learn and discovered  pattern without being programmed to do so
+- Machine learning allows computer to learn and discovered  new patterns from past experince without being programmed to do so.
+- 
