@@ -38,11 +38,11 @@ Tags: #Daily-Notes
 - [ ] Plan and Set Tasks for the Day
 
 ## Meetings:
-- [ ] Attend Masterclass: Ace your presentation #Meetings #Explore-Academy #Presentation ⏳ 2023-05-03 📅 2023-05-03 🔼 
-- [ ] Peer Learning with ALX students on C Programming
-- [ ] Meet with 
+- [ ] Attend Masterclass: Ace your presentation #Meetings #Explore-Academy #Presentation ⏳ 2023-05-03 📅 2023-05-03 ⏫ 
+- [ ] Study Session with ALX students on C Programming ⏳ 2023-05-03 📅 2023-05-03 ⏫ #ALX #C #Programming #Peer-Learning #Study 
+- [ ] Introduction to Together Mentoring 📅 2023-05-03 ⏳ 2023-05-03 🔼 #Random #Mentorship
 
 ## To-dos:
-- [ ] Study Introduction to Machine Learning ⏳ 2023-05-03 📅 2023-05-04 #ML #AI #AWS 
-- [ ] Study and Engage with other ALX students on and Introduction to C programming #ALX #C #Programming #Peer-Learning 📅 2023-05-03 ⏳ 2023-05-03 
+- [ ] Study Introduction to Machine Learning ⏳ 2023-05-03 📅 2023-05-04 #ML #AI #AWS ⏫ 
+- [ ] Begin Studying C programming from beginning #ALX #C #Programming #Peer-Learning #Study 📅 2023-05-03 ⏳ 2023-05-03 ⏫ 
 - [ ] Assist a private student with Microsoft Excel and PowerPoint #Excel #PowerPoint #Random ⏳ 2023-05-03 📅 2023-05-03 
