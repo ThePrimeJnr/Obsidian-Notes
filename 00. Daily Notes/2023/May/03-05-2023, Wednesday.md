@@ -33,16 +33,16 @@ Tags: #Daily-Notes
 - [x] Check and Attend to Urgent Emails ✅ 2023-05-03
 - [x] Confirm Meetings on Calendar ✅ 2023-05-03
 - [x] Review Projects and Assignments for the Day ✅ 2023-05-03
-- [ ] Engage on Social Media (Twitter, WhatsApp, LinkedIn)
+- [x] Engage on Social Media (Twitter, WhatsApp, LinkedIn) ✅ 2023-05-03
 - [x] Plan and Set Tasks for the Day ✅ 2023-05-03
 
 ## Meetings:
 - [x] Attend Masterclass: Ace your presentation #Meetings #Explore-Academy #Presentation ⏫ ⏳ 2023-05-03 📅 2023-05-03 ✅ 2023-05-03
 - [ ] Study Session with ALX students on C Programming ⏳ 2023-05-03 📅 2023-05-03 ⏫ #ALX #C #Programming #Peer-Learning #Study 
-- [ ] Introduction to Together Mentoring 📅 2023-05-03 ⏳ 2023-05-03 🔼 #Random #Mentorship
+- [x] Introduction to Together Mentoring #Random #Mentorship 🔼 ⏳ 2023-05-03 📅 2023-05-03 ✅ 2023-05-03
 
 ## To-dos:
-- [ ] Study Introduction to Machine Learning ⏳ 2023-05-03 📅 2023-05-04 #Machine-Learning #AI #AWS ⏫ ^04aa9b
+- [/] Study Introduction to Machine Learning ⏳ 2023-05-03 📅 2023-05-04 #Machine-Learning #AI #AWS ⏫ ^04aa9b
 - [ ] Begin Studying C programming from beginning on Coursera #ALX #C #Programming #Peer-Learning #Study #Coursera 📅 2023-05-03 ⏳ 2023-05-03 ⏫ 
-- [ ] Assist a private student with Microsoft Excel and PowerPoint #Excel #PowerPoint #Random ⏳ 2023-05-03 📅 2023-05-03 
+- [x] Assist a private student with Microsoft Excel and PowerPoint #Excel #PowerPoint #Random ⏳ 2023-05-03 📅 2023-05-03 ✅ 2023-05-03
 - [ ] Fix Bugs on AppFlowy's Divider Shortcut ⏳ 2023-05-03 📅 2023-05-06 #GitHub #Bug-Fixes #App-Dev
