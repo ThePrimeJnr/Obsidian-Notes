@@ -22,7 +22,6 @@ Tags: #Daily-Notes
 > sort by due date   
 > sort by priority 
 > hide due date  
-> limit 5  
 > ```
 
 > [!success]+ Tasks Completed Today  
@@ -43,6 +42,6 @@ Tags: #Daily-Notes
 - [ ] Introduction to Together Mentoring 📅 2023-05-03 ⏳ 2023-05-03 🔼 #Random #Mentorship
 
 ## To-dos:
-- [ ] Study Introduction to Machine Learning ⏳ 2023-05-03 📅 2023-05-04 #ML #AI #AWS ⏫ 
+- [ ] Study Introduction to Machine Learning ⏳ 2023-05-03 📅 2023-05-04 #ML #AI #AWS ⏫
 - [ ] Begin Studying C programming from beginning #ALX #C #Programming #Peer-Learning #Study 📅 2023-05-03 ⏳ 2023-05-03 ⏫ 
 - [ ] Assist a private student with Microsoft Excel and PowerPoint #Excel #PowerPoint #Random ⏳ 2023-05-03 📅 2023-05-03 

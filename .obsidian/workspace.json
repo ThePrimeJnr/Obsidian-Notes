@@ -4,32 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f2b6e5ec94047cb5",
+        "id": "37846ebca5928fa9",
         "type": "tabs",
         "children": [
           {
-            "id": "a0aa0a0f7bf8e2f5",
+            "id": "48bbc8139a43ecc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
+                "file": "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "4f68d2d86d19e9e3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00. Daily Notes/2023/May/03-05-2023, Wednesday.md"
+              }
             }
           },
           {
@@ -122,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +144,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
+                "file": "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -175,10 +170,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4f68d2d86d19e9e3",
+  "active": "eec5bbc3d0a7eb88",
   "lastOpenFiles": [
-    "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
     "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
+    "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
+    "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+    "01. Templates/Daily Note Template.md",
     "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
     "02. Attachments/Screenshot from 2023-05-02 16-50-32.png",
     "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
@@ -190,8 +187,6 @@
     "Cloud Computing/1. Cloud Computing Overview",
     "Cloud Computing/2. AWS Cloud Concepts",
     "Cloud Computing/1. Cloud Computing Overview/1. Cloud Computing Overview.md",
-    "00. Daily Notes/2023/May/01-05-2023, Monday.md",
-    "01. Templates/Daily Note Template.md",
     "00. Daily Notes/2023/May",
     "00. Daily Notes/2023",
     "00. Daily Notes/2023/April/30-04-2023, Sunday.md",
