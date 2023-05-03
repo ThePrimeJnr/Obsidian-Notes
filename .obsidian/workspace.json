@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
+                "file": "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Daily Notes/2023/May/02-05-2023, Tuesday.md"
+                "file": "00. Daily Notes/2023/May/03-05-2023, Wednesday.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
+                "file": "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
+                "file": "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,9 +184,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "eec5bbc3d0a7eb88",
+  "active": "4f68d2d86d19e9e3",
   "lastOpenFiles": [
     "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
+    "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
     "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
     "02. Attachments/Screenshot from 2023-05-02 16-50-32.png",
     "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
@@ -209,7 +210,6 @@
     "00. Daily Notes/2023/April",
     "Untitled.canvas",
     "02. Attachments",
-    "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
     "Blogs/Recording 20230501165051.webm",
     "Blogs/Recording 20230501165115.webm",
     "2023/April/30-04-2023, Sunday.md",
