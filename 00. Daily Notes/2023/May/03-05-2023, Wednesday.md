@@ -37,7 +37,7 @@ Tags: #Daily-Notes
 - [x] Plan and Set Tasks for the Day ✅ 2023-05-03
 
 ## Meetings:
-- [ ] Attend Masterclass: Ace your presentation #Meetings #Explore-Academy #Presentation ⏳ 2023-05-03 📅 2023-05-03 ⏫ 
+- [x] Attend Masterclass: Ace your presentation #Meetings #Explore-Academy #Presentation ⏫ ⏳ 2023-05-03 📅 2023-05-03 ✅ 2023-05-03
 - [ ] Study Session with ALX students on C Programming ⏳ 2023-05-03 📅 2023-05-03 ⏫ #ALX #C #Programming #Peer-Learning #Study 
 - [ ] Introduction to Together Mentoring 📅 2023-05-03 ⏳ 2023-05-03 🔼 #Random #Mentorship
 
