@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
-                "mode": "preview",
+                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 553.5
+    "width": 553.5,
+    "collapsed": true
   },
   "right": {
     "id": "184f42b716006df2",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Daily Notes/2023/May/03-05-2023, Wednesday.md"
+                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md"
               }
             }
           },
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
+                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
+                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 330.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,13 +174,13 @@
   },
   "active": "48bbc8139a43ecc8",
   "lastOpenFiles": [
-    "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
+    "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
+    "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
     "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
+    "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
     "00. Daily Notes/2023/May/01-05-2023, Monday.md",
     "01. Templates/Daily Note Template.md",
-    "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
     "02. Attachments/Screenshot from 2023-05-02 16-50-32.png",
-    "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
     "Blogs/Gnome Dash and Panel Glitch.md",
     "conflict-files-obsidian-git.md",
     "Messages/Believers' Praiseworthy Pursuit after God's Glorious Visitation.md",
