@@ -34,7 +34,7 @@ Tags: #Daily-Notes
 - [ ] Confirm Meetings on Calendar
 - [ ] Review Projects and Assignments for the Day
 - [ ] Engage on Social Media (Twitter, WhatsApp, LinkedIn)
-- [ ] Plan and Set Tasks for the Day
+- [x] Plan and Set Tasks for the Day ✅ 2023-05-03
 
 ## Meetings:
 - [ ] Attend Masterclass: Ace your presentation #Meetings #Explore-Academy #Presentation ⏳ 2023-05-03 📅 2023-05-03 ⏫ 
