@@ -30,9 +30,9 @@ Tags: #Daily-Notes
 > hide due date  
 
 ## Morning Routines:
-- [ ] Check and Attend to Urgent Emails
-- [ ] Confirm Meetings on Calendar
-- [ ] Review Projects and Assignments for the Day
+- [x] Check and Attend to Urgent Emails ✅ 2023-05-03
+- [x] Confirm Meetings on Calendar ✅ 2023-05-03
+- [x] Review Projects and Assignments for the Day ✅ 2023-05-03
 - [ ] Engage on Social Media (Twitter, WhatsApp, LinkedIn)
 - [x] Plan and Set Tasks for the Day ✅ 2023-05-03
 
@@ -43,5 +43,6 @@ Tags: #Daily-Notes
 
 ## To-dos:
 - [ ] Study Introduction to Machine Learning ⏳ 2023-05-03 📅 2023-05-04 #ML #AI #AWS ⏫
-- [ ] Begin Studying C programming from beginning #ALX #C #Programming #Peer-Learning #Study 📅 2023-05-03 ⏳ 2023-05-03 ⏫ 
+- [ ] Begin Studying C programming from beginning on Coursera #ALX #C #Programming #Peer-Learning #Study #Coursera 📅 2023-05-03 ⏳ 2023-05-03 ⏫ 
 - [ ] Assist a private student with Microsoft Excel and PowerPoint #Excel #PowerPoint #Random ⏳ 2023-05-03 📅 2023-05-03 
+- [ ] Fix bugs on AppFlowy's Divider Shortcut ⏳ 2023-05-03 📅 2023-05-06 #GitHub #Bug-Fixes #App-Dev
