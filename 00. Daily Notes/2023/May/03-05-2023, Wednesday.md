@@ -42,7 +42,7 @@ Tags: #Daily-Notes
 - [ ] Introduction to Together Mentoring 📅 2023-05-03 ⏳ 2023-05-03 🔼 #Random #Mentorship
 
 ## To-dos:
-- [ ] Study Introduction to Machine Learning ⏳ 2023-05-03 📅 2023-05-04 #ML #AI #AWS ⏫
+- [ ] Study Introduction to Machine Learning ⏳ 2023-05-03 📅 2023-05-04 #Machine-Learning #AI #AWS ⏫ ^04aa9b
 - [ ] Begin Studying C programming from beginning on Coursera #ALX #C #Programming #Peer-Learning #Study #Coursera 📅 2023-05-03 ⏳ 2023-05-03 ⏫ 
 - [ ] Assist a private student with Microsoft Excel and PowerPoint #Excel #PowerPoint #Random ⏳ 2023-05-03 📅 2023-05-03 
 - [ ] Fix Bugs on AppFlowy's Divider Shortcut ⏳ 2023-05-03 📅 2023-05-06 #GitHub #Bug-Fixes #App-Dev

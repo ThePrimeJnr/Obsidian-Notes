@@ -8,19 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "48bbc8139a43ecc8",
+            "id": "5f028a6bd1c721c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
+                "file": "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ac6ef9ed6837710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Introduction to Machine Learning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#fdff",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md"
+                "file": "Machine Learning/Introduction to Machine Learning.md"
               }
             }
           },
@@ -116,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
+                "file": "Machine Learning/Introduction to Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
+                "file": "Machine Learning/Introduction to Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,20 +187,22 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "48bbc8139a43ecc8",
+  "active": "7ac6ef9ed6837710",
   "lastOpenFiles": [
-    "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
-    "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
     "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
+    "Machine Learning/Introduction to Machine Learning.md",
+    "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
+    "Machine Learning",
+    "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
     "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
     "00. Daily Notes/2023/May/01-05-2023, Monday.md",
     "01. Templates/Daily Note Template.md",
     "02. Attachments/Screenshot from 2023-05-02 16-50-32.png",
     "Blogs/Gnome Dash and Panel Glitch.md",
     "conflict-files-obsidian-git.md",
-    "Messages/Believers' Praiseworthy Pursuit after God's Glorious Visitation.md",
+    "Sermons/Believers' Praiseworthy Pursuit after God's Glorious Visitation.md",
     "01. Templates/Study Note Template.md",
-    "01. Templates/Message Template.md",
+    "01. Templates/Sermon Template.md",
     "Cloud Computing/1. Cloud Computing Overview",
     "Cloud Computing/2. AWS Cloud Concepts",
     "Cloud Computing/1. Cloud Computing Overview/1. Cloud Computing Overview.md",
@@ -202,7 +219,6 @@
     "Blogs/Recording 20230501165115.webm",
     "2023/April/30-04-2023, Sunday.md",
     "2023/April",
-    "2023",
     "2023/April/0th-04-2023, Sunday.md",
     "30-04-2023, Sunday.md",
     "Invalid date.md",
