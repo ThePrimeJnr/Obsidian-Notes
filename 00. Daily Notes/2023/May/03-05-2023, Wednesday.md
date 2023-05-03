@@ -38,7 +38,8 @@ Tags: #Daily-Notes
 - [ ] Plan and Set Tasks for the Day
 
 ## Meetings:
-- [ ] *
+- [ ] Attend Masterclass: Ace your presentation #Meetings #Explore-Academy #Presentation ⏳ 2023-05-03 📅 2023-05-03 🔼 
+- [ ] Peer 
 
 ## To-dos:
 - [ ] Study Introduction to Machine Learning ⏳ 2023-05-03 📅 2023-05-04 #ML #AI #AWS 
