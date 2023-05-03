@@ -11,8 +11,13 @@
             "id": "5f028a6bd1c721c1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00. Daily Notes/2023/May/04-05-2023, Thursday.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00. Daily Notes/2023/May/04-05-2023, Thursday.md"
+              }
             }
           },
           {
@@ -108,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00. Daily Notes/2023/May/04-05-2023, Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00. Daily Notes/2023/May/04-05-2023, Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
