@@ -34,4 +34,9 @@ Labelled vs Un-labelled data
 
 Labelled data already contains the solutions - given a data and some information about the data
 
-unlabled data lacks solution or label, 
+Unlabelled data lacks solution or label, uses something like clustering to find a natural grouping (Clustering is a type of Unsupervised Learning another can e neural networks)
+
+### Types of Label
+actegorical Label (classification)
+Continous Label (Regression)
+and more ...
