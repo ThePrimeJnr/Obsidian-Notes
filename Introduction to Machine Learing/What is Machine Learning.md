@@ -23,8 +23,9 @@ machine learning combines statistics, computer science and applied maths
 -   **Model inference** is when the trained model is used to generate predictions.
 
 ## Major Steps in Machine Learning
-Define the Problem
-build dataset
-training the model
-evaluate the model
-use the model
+- Define the Problem
+- Build dataset
+- Training the model
+- Evaluate the model
+- Use the model
+
