@@ -30,3 +30,8 @@ machine learning combines statistics, computer science and applied maths
 - Evaluate the model
 - Use the model
 
+Labelled vs Un-labelled data
+
+Labelled data already contains the solutions - given a data and some information about the data
+
+unlabled data lacks solution or label, 
