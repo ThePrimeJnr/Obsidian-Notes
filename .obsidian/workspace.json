@@ -19,6 +19,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "81a21fc6d0cb3aa0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
         ]
       }
@@ -65,13 +75,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "3875c3126295603d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 553.5
+    "width": 553.5,
+    "collapsed": true
   },
   "right": {
     "id": "184f42b716006df2",
@@ -157,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 402.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
