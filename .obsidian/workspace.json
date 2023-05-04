@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to Machine Learing/What is Machine Learning.md",
+                "file": "00. Daily Notes/2023/May/04-05-2023, Thursday.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 553.5,
-    "collapsed": true
+    "width": 553.5
   },
   "right": {
     "id": "184f42b716006df2",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to Machine Learing/What is Machine Learning.md"
+                "file": "00. Daily Notes/2023/May/04-05-2023, Thursday.md"
               }
             }
           },
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Machine Learing/What is Machine Learning.md",
+                "file": "00. Daily Notes/2023/May/04-05-2023, Thursday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to Machine Learing/What is Machine Learning.md",
+                "file": "00. Daily Notes/2023/May/04-05-2023, Thursday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5,
-    "collapsed": true
+    "width": 402.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,9 +180,9 @@
   },
   "active": "5f028a6bd1c721c1",
   "lastOpenFiles": [
+    "Introduction to Machine Learing/What is Machine Learning.md",
     "02. Attachments/Pasted image 20230504154156.png",
     "00. Daily Notes/2023/May/04-05-2023, Thursday.md",
-    "Introduction to Machine Learing/What is Machine Learning.md",
     "00. Daily Notes/2023/May/05-05-2023, Friday.md",
     "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
     "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",

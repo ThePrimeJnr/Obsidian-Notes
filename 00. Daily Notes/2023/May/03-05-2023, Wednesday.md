@@ -38,7 +38,7 @@ Tags: #Daily-Notes
 
 ## Meetings:
 - [x] Attend Masterclass: Ace your presentation #Meetings #Explore-Academy #Presentation ⏫ ⏳ 2023-05-03 📅 2023-05-03 ✅ 2023-05-03
-- [ ] Study Session with ALX students on C Programming ⏳ 2023-05-03 📅 2023-05-03 ⏫ #ALX #C #Programming #Peer-Learning #Study 
+- [x] Study Session with ALX students on C Programming #ALX #C #Programming #Peer-Learning #Study ⏫ ⏳ 2023-05-03 📅 2023-05-03 ✅ 2023-05-04
 - [x] Introduction to Together Mentoring #Random #Mentorship 🔼 ⏳ 2023-05-03 📅 2023-05-03 ✅ 2023-05-03
 
 ## To-dos:
