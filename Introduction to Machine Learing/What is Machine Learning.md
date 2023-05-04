@@ -31,10 +31,9 @@ machine learning combines statistics, computer science and applied maths
 
 ## Labelled vs Unlabelled data
 
-Labelled data already contains the solutions - given a data and some information about the data
-
-Unlabelled data lacks solution or label, uses something like clustering to find a natural grouping 
-- Clustering: helps us determine if there are naturally occurring patterns (groupings in the data)
+- **Labelled data:** already contains the solutions - given a data and some information about the data
+- **Unlabelled data:** lacks solution or label, means you don't need to provide the model with any kind of label or solution while the model is being trained.
+	- Clustering: helps us determine if there are naturally occurring patterns (groupings in the data)
 
 ## Types of Label
 In supervised learning these are the existing labels:
