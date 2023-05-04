@@ -23,22 +23,25 @@ machine learning combines statistics, computer science and applied maths
 -   **Model inference** is when the trained model is used to generate predictions.
 
 ## Major Steps in Machine Learning
-### Define the Problem
-
+- Define the Problem
 - Build dataset
 - Training the model
 - Evaluate the model
 - Use the model
 
-Labelled vs Unlabelled data
+## Labelled vs Unlabelled data
 
 Labelled data already contains the solutions - given a data and some information about the data
 
 Unlabelled data lacks solution or label, uses something like clustering to find a natural grouping 
-- Clustering: helps us determine if there are naturally occuring patterns (groupings in the data)
-- 
+- Clustering: helps us determine if there are naturally occurring patterns (groupings in the data)
 
-### Types of Label
-actegorical Label (classification)
-Continous Label (Regression)
-and more ...
+## Types of Label
+In supervised learning these are the existing labels:
+- **Categorical Label (Classification):**  has a discrete set of possible values, such as "is a cat" and "is not a cat".
+- **Continuous Label (Regression):** does not have a discrete set of possible values, which means there are potentially possibly an unlimited number of possibilities.
+- and more ...
+In Unsupervised learning:
+- **Clustering**: A learning task that helps to determine if there are any naturally occurring groupings in the data.
+- Deep Learning
+- and more ...
