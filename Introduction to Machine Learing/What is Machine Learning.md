@@ -34,7 +34,9 @@ Labelled vs Unlabelled data
 
 Labelled data already contains the solutions - given a data and some information about the data
 
-Unlabelled data lacks solution or label, uses something like clustering to find a natural grouping (Clustering is a type of Unsupervised Learning another can e neural networks)
+Unlabelled data lacks solution or label, uses something like clustering to find a natural grouping 
+- Clustering: helps us determine if there are naturally occuring patterns (groupings in the data)
+- 
 
 ### Types of Label
 actegorical Label (classification)
