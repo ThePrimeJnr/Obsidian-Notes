@@ -44,3 +44,12 @@ In Unsupervised learning:
 - **Clustering**: A learning task that helps to determine if there are any naturally occurring groupings in the data.
 - Deep Learning
 - and more ...
+
+
+cyber s
+software
+mobile
+ethical hacking
+web Dev
+back end 
+AI
