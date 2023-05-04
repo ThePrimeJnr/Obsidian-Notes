@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "00. Daily Notes/2023/May/04-05-2023, Thursday.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Daily-Notes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,17 +171,18 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "eec5bbc3d0a7eb88",
+  "active": "5f028a6bd1c721c1",
   "lastOpenFiles": [
-    "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
+    "00. Daily Notes/2023/May/05-05-2023, Friday.md",
     "00. Daily Notes/2023/May/04-05-2023, Thursday.md",
+    "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
+    "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
+    "00. Daily Notes/2023/May/01-05-2023, Monday.md",
     "Introduction to Machine Learing/What is Machine Learning.md",
     "Introduction to Machine Learing/Introductio.md",
     "Introduction to Machine Learing",
     "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
     "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
-    "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
-    "00. Daily Notes/2023/May/01-05-2023, Monday.md",
     "01. Templates/Daily Note Template.md",
     "02. Attachments/Screenshot from 2023-05-02 16-50-32.png",
     "Blogs/Gnome Dash and Panel Glitch.md",
@@ -208,7 +210,6 @@
     "30-04-2023, Sunday.md",
     "Invalid date.md",
     "2002-05-19.md",
-    "2023-W18.md",
-    "2001-05-21.md"
+    "2023-W18.md"
   ]
 }
