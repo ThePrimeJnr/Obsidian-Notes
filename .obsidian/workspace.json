@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Daily Notes/2023/May/04-05-2023, Thursday.md",
+                "file": "00. Daily Notes/2023/May/05-05-2023, Friday.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 553.5
+    "width": 553.5,
+    "collapsed": true
   },
   "right": {
     "id": "184f42b716006df2",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Daily Notes/2023/May/04-05-2023, Thursday.md"
+                "file": "00. Daily Notes/2023/May/05-05-2023, Friday.md"
               }
             }
           },
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Daily Notes/2023/May/04-05-2023, Thursday.md",
+                "file": "00. Daily Notes/2023/May/05-05-2023, Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. Daily Notes/2023/May/04-05-2023, Thursday.md",
+                "file": "00. Daily Notes/2023/May/05-05-2023, Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 402.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
