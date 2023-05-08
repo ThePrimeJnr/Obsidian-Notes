@@ -2,13 +2,13 @@
 
 # ​1. Pleasing the Supreme God as Saints in Christ
 
-##     a. The demand to please God above men
+##     a. The Demand to Please God above Men
 ####      (Gal 1:10: Matt 17:5: Acts 3:22-23,26; 1 Cor 15:1-4)
 
-##     b. The devotion of pleasing God rather than men
+##     b. The Devotion of Pleasing God rather than Men
 ####      (Acts 4:12,18-20: 5:28-32: 1 Thess 2:4-6; Eph 6:6-8)
 
-##     c. The damnation of not pleasing God but men
+##     c. The Damnation of not Pleasing God but Men
 ####      ()
 
 # 2. Preaching the Saving Gospel as Servants of Christ
