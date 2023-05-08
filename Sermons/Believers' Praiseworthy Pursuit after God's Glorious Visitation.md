@@ -1,4 +1,4 @@
-#SWS #Last_Sunday
+#SWS #Last_Sunday #Sermon
 #### (Psalm 106:1- ...)
 
 ## 1.THE WORKING OF WONDERS AT HIS FAITHFUL GRACIOUS VISITATION
