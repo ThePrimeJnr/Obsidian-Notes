@@ -9,7 +9,7 @@
 ####      (Acts 4:12,18-20: 5:28-32: 1 Thess 2:4-6; Eph 6:6-8)
 
 ##     c. The Damnation of not Pleasing God but Men
-####      ()
+####      (Romans 8.5 – 8; I Corinthians 10.5 – 11; I Thessalonians 2.15,16; Hebrews 11.6)
 
 # 2. Preaching the Saving Gospel as Servants of Christ
 
