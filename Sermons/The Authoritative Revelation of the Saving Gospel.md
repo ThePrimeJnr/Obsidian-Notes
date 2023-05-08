@@ -18,10 +18,10 @@
 ##     a. Revelation of the Gospel the Truth of Christ
 ####      (Eph 3:3-8; Rom 16:25-27; 1:16-17)
 
-##     b. 
-####      ()
+##     b. Redemption by God, Taught by through Christ
+####      (
 
-##     c. 
+##     c. Recipient of Grace, Transformed by Christ
 ####      ()
 
 # 3. Personifying the Same Grace, Separated unto Christ
