@@ -16,12 +16,12 @@
 # 2. Love Confirming Sanctification by Purifying Faith
 ### (1 Thess 5:22)
 
-#### S - Surrender All to Christ (Heb 11:17)
+#### S - Surrender all to Christ (Heb 11:17)
 #### A - Abstain from all Appearance of Corruption (1 Thess 5:22)
 #### N - Nature and Affection of Christ Likeness (2 Pet 1:3,4)
 #### C - Commitment to His New Commandment (John 13:34,35)
 #### T - Truthfulness in all Communication (Eph 4:24,25)
-#### I - 
+#### I - Integrity in a (Job 2:3)
 #### F -
 #### I - 
 #### C - 
