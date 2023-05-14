@@ -16,4 +16,19 @@
 # 2. Love Confirming Sanctification by Purifying Faith
 ### (1 Thess 5:22)
 
+#### S - Surrender All to Christ (Heb 11:17)
+#### A - Abstain from all Appearance of Corruption (1 Thess 5:22)
+#### N - Nature and Affection of Christ Likeness (2 Pet 1:3,4)
+#### C - Commitment to His New Commandment (John 13:34,35)
+#### T - Truthfulness in all Communication ()
+#### I - 
+#### F -
+#### I - 
+#### C - 
+#### A - 
+#### T - 
+#### I - 
+#### O - 
+#### N - 
+
 # 3. Love Compelling Service with Prevailing Faith 
