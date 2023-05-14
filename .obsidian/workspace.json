@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "37846ebca5928fa9",
+        "id": "f2b6e5ec94047cb5",
         "type": "tabs",
         "children": [
           {
-            "id": "5f028a6bd1c721c1",
+            "id": "a0aa0a0f7bf8e2f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sermons/The Authoritative Revelation of the Saving Gospel.md",
+                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Daily-Notes",
+                "query": "tag:#fdff",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,20 +65,12 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "3875c3126295603d",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 239.51103591918945
+    "width": 553.5
   },
   "right": {
     "id": "184f42b716006df2",
@@ -113,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sermons/The Authoritative Revelation of the Saving Gospel.md"
+                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md"
               }
             }
           },
@@ -123,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sermons/The Authoritative Revelation of the Saving Gospel.md",
+                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,31 +132,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sermons/The Authoritative Revelation of the Saving Gospel.md",
+                "file": "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "eec5bbc3d0a7eb88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00. Daily Notes/2023/May/04-05-2023, Thursday.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 402.5,
+    "width": 330.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -179,31 +158,20 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5f028a6bd1c721c1",
+  "active": "a0aa0a0f7bf8e2f5",
   "lastOpenFiles": [
-    "Sermons/Believers' Praiseworthy Pursuit after God's Glorious Visitation.md",
-    "Sermons/The Authoritative Revelation of the Saving Gospel.md",
-    "01. Templates/Daily Note Template.md",
-    "01. Templates/Sermon Template.md",
-    "00. Daily Notes/2023/May/08-05-2023, Monday.md",
-    "00. Daily Notes/2023/May/05-05-2023, Friday.md",
-    "00. Daily Notes/2023/May/04-05-2023, Thursday.md",
-    "Introduction to Machine Learing/What is Machine Learning.md",
-    "02. Attachments/Pasted image 20230504154156.png",
-    "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
-    "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
-    "00. Daily Notes/2023/May/01-05-2023, Monday.md",
-    "Introduction to Machine Learing/Introductio.md",
-    "Introduction to Machine Learing",
-    "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
     "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
-    "02. Attachments/Screenshot from 2023-05-02 16-50-32.png",
-    "Blogs/Gnome Dash and Panel Glitch.md",
+    "Cloud Computing/2. AWS Cloud Concepts/2. Cloud Concepts.md",
     "conflict-files-obsidian-git.md",
+    "00. Daily Notes/2023/May/02-05-2023, Tuesday.md",
+    "Messages/Believers' Praiseworthy Pursuit after God's Glorious Visitation.md",
     "01. Templates/Study Note Template.md",
+    "01. Templates/Message Template.md",
     "Cloud Computing/1. Cloud Computing Overview",
     "Cloud Computing/2. AWS Cloud Concepts",
     "Cloud Computing/1. Cloud Computing Overview/1. Cloud Computing Overview.md",
+    "00. Daily Notes/2023/May/01-05-2023, Monday.md",
+    "01. Templates/Daily Note Template.md",
     "00. Daily Notes/2023/May",
     "00. Daily Notes/2023",
     "00. Daily Notes/2023/April/30-04-2023, Sunday.md",
@@ -213,12 +181,21 @@
     "00. Daily Notes/2023/April",
     "Untitled.canvas",
     "02. Attachments",
+    "00. Daily Notes/2023/May/03-05-2023, Wednesday.md",
     "Blogs/Recording 20230501165051.webm",
     "Blogs/Recording 20230501165115.webm",
     "2023/April/30-04-2023, Sunday.md",
     "2023/April",
+    "2023",
     "2023/April/0th-04-2023, Sunday.md",
     "30-04-2023, Sunday.md",
-    "Invalid date.md"
+    "Invalid date.md",
+    "2002-05-19.md",
+    "2023-W18.md",
+    "2001-05-21.md",
+    "01. Templates/Daily Notes(Task Edition)/Journal/2023/April/2023-04-24.md",
+    "01. Templates/Daily Notes(Task Edition)/Journal/2023/April/2023-04-23.md",
+    "01. Templates/Daily Notes(Task Edition)/Journal/2023/April/2023-04-22.md",
+    "01. Templates/Daily Notes(Task Edition)/Journal/2023/April/2023-04-21.md"
   ]
 }
