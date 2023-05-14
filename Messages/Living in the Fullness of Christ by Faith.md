@@ -22,12 +22,12 @@
 #### C - Commitment to His New Commandment (John 13:34,35)
 #### T - Truthfulness in all Communication (Eph 4:24,25)
 #### I - Integrity in an Afflicting Crisis (Job 2:3)
-#### F -Freedom From Ancient Carnality (1Corin 3:1)
-#### I - 
-#### C - 
-#### A - 
-#### T - 
-#### I - 
+#### F -Freedom From Ancient Carnality (1Corin 3:1-3)
+#### I - Imprint of the Image of Christ (Rom 8:29)
+#### C - Confirmation of the New Covenant (Heb 8:6)
+#### A - Attitude with Acceptable Contentment
+#### T - Transparency with a Thirsty Conscience (Act 24:16)
+#### I - Identification with the Actions of Christ 
 #### O - 
 #### N - 
 
