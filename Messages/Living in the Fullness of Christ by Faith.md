@@ -31,5 +31,12 @@
 #### O - One Accord in Conformity with Christ (John 17:17-21)
 #### N - Newness with Affirmed Crucifixion (Gal 2:20)
 
-# 3. Our Compelling Service with Prevailing Faith 
+# 3. Law Compelling Service with Prevailing Faith 
 
+#### S - Seeking the Lost for Christ (Luke 19:10-13)
+#### E - Exalt Loyaly above Conveniency (Acts 20:24)
+#### R - Retaining the Landmark without Compromise (Prov 22:28, 1 Tim 4:25) 
+#### V - Visualizing the Lord and His Coming (Luke 12:40-42)
+#### I -Increasing our Neighbours through Corporation (1 Cor 3:6)
+#### C - Calling the Lawless out of Condemnation 
+#### E- Engaging a Limitless Liason for a Great Commission (1 Cor 9:19,22)
