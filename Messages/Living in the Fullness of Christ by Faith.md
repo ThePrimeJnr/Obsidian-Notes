@@ -21,8 +21,8 @@
 #### N - Nature and Affection of Christ Likeness (2 Pet 1:3,4)
 #### C - Commitment to His New Commandment (John 13:34,35)
 #### T - Truthfulness in all Communication (Eph 4:24,25)
-#### I - Integrity in a (Job 2:3)
-#### F -
+#### I - Integrity in an Afflicting Crisis (Job 2:3)
+#### F -Freedom From Ancient Carnality (1Corin 3:1)
 #### I - 
 #### C - 
 #### A - 
