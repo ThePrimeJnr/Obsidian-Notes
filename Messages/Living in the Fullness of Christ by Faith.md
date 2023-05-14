@@ -27,8 +27,9 @@
 #### C - Confirmation of the New Covenant (Heb 8:6)
 #### A - Attitude with Acceptable Contentment
 #### T - Transparency with a Thirsty Conscience (Act 24:16)
-#### I - Identification with the Actions of Christ (Heb 2:9,)
-#### O - 
-#### N - 
+#### I - Identification with the Actions of Christ (Heb 2:9,10)
+#### O - One Accord in Conformity with Christ (John 17:17-21)
+#### N - Newness with Affirmed Crucifixion (Gal 2:20)
 
-# 3. Love Compelling Service with Prevailing Faith 
+# 3. Our Compelling Service with Prevailing Faith 
+
