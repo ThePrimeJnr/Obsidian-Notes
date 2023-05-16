@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sermons/The Authoritative Revelation of the Saving Gospel.md",
+                "file": "00. Daily Notes/2023/May/16-05-2023, Tuesday.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sermons/The Authoritative Revelation of the Saving Gospel.md"
+                "file": "00. Daily Notes/2023/May/16-05-2023, Tuesday.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sermons/The Authoritative Revelation of the Saving Gospel.md",
+                "file": "00. Daily Notes/2023/May/16-05-2023, Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sermons/The Authoritative Revelation of the Saving Gospel.md",
+                "file": "00. Daily Notes/2023/May/16-05-2023, Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,8 +181,9 @@
   },
   "active": "5f028a6bd1c721c1",
   "lastOpenFiles": [
-    "Sermons/Believers' Praiseworthy Pursuit after God's Glorious Visitation.md",
     "Sermons/The Authoritative Revelation of the Saving Gospel.md",
+    "00. Daily Notes/2023/May/16-05-2023, Tuesday.md",
+    "Sermons/Believers' Praiseworthy Pursuit after God's Glorious Visitation.md",
     "01. Templates/Daily Note Template.md",
     "01. Templates/Sermon Template.md",
     "00. Daily Notes/2023/May/08-05-2023, Monday.md",
@@ -218,7 +219,6 @@
     "2023/April/30-04-2023, Sunday.md",
     "2023/April",
     "2023/April/0th-04-2023, Sunday.md",
-    "30-04-2023, Sunday.md",
-    "Invalid date.md"
+    "30-04-2023, Sunday.md"
   ]
 }
