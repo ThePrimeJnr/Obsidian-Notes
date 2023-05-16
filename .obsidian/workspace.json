@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7843c8cc146c054f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Daily Notes/2023/May/16-05-2023, Tuesday.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -123,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Daily Notes/2023/May/16-05-2023, Tuesday.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,27 +154,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. Daily Notes/2023/May/16-05-2023, Tuesday.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "eec5bbc3d0a7eb88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00. Daily Notes/2023/May/04-05-2023, Thursday.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -179,10 +180,18 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5f028a6bd1c721c1",
+  "active": "7843c8cc146c054f",
   "lastOpenFiles": [
-    "Sermons/The Authoritative Revelation of the Saving Gospel.md",
     "00. Daily Notes/2023/May/16-05-2023, Tuesday.md",
+    "conflict-files-obsidian-git.md",
+    "Untitled.md",
+    "Messages/Living in the Fullness of Christ by Faith.md",
+    "Messages/Believers' Praiseworthy Pursuit after God's Glorious Visitation.md",
+    "Messages",
+    "01. Templates/Message Template.md",
+    "00. Daily Notes/2023/May/14-05-2023, Sunday.md",
+    "Untitled",
+    "Sermons/The Authoritative Revelation of the Saving Gospel.md",
     "Sermons/Believers' Praiseworthy Pursuit after God's Glorious Visitation.md",
     "01. Templates/Daily Note Template.md",
     "01. Templates/Sermon Template.md",
@@ -200,7 +209,6 @@
     "Cloud Computing/2. AWS Cloud Concepts/1. Introduction to Cloud Computing.md",
     "02. Attachments/Screenshot from 2023-05-02 16-50-32.png",
     "Blogs/Gnome Dash and Panel Glitch.md",
-    "conflict-files-obsidian-git.md",
     "01. Templates/Study Note Template.md",
     "Cloud Computing/1. Cloud Computing Overview",
     "Cloud Computing/2. AWS Cloud Concepts",
@@ -209,16 +217,9 @@
     "00. Daily Notes/2023",
     "00. Daily Notes/2023/April/30-04-2023, Sunday.md",
     "2023-01-01.md",
-    "^202.md",
-    "Untitled.md",
     "00. Daily Notes/2023/April",
     "Untitled.canvas",
     "02. Attachments",
-    "Blogs/Recording 20230501165051.webm",
-    "Blogs/Recording 20230501165115.webm",
-    "2023/April/30-04-2023, Sunday.md",
-    "2023/April",
-    "2023/April/0th-04-2023, Sunday.md",
-    "30-04-2023, Sunday.md"
+    "Blogs/Recording 20230501165051.webm"
   ]
 }

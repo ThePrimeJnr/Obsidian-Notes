@@ -21,6 +21,7 @@ Tags: #Daily-Notes
 > sort by due date   
 > sort by priority 
 > hide due date  
+> limit 5  
 > ```
 
 > [!success]+ Tasks Completed Today  
