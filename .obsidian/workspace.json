@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Daily Notes/2023/May/16-05-2023, Tuesday.md",
+                "file": "C Programming/Function, nested loops.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.51103591918945
+    "width": 239.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "184f42b716006df2",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Daily Notes/2023/May/16-05-2023, Tuesday.md"
+                "file": "C Programming/Function, nested loops.md"
               }
             }
           },
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Daily Notes/2023/May/16-05-2023, Tuesday.md",
+                "file": "C Programming/Function, nested loops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. Daily Notes/2023/May/16-05-2023, Tuesday.md",
+                "file": "C Programming/Function, nested loops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,15 +169,16 @@
   },
   "active": "5f028a6bd1c721c1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "C Programming/Function, nested loops.md",
     "00. Daily Notes/2023/May/16-05-2023, Tuesday.md",
+    "conflict-files-obsidian-git.md",
     "Untitled.md",
     "Messages/Living in the Fullness of Christ by Faith.md",
     "Messages/Believers' Praiseworthy Pursuit after God's Glorious Visitation.md",
     "Messages",
     "01. Templates/Message Template.md",
     "00. Daily Notes/2023/May/14-05-2023, Sunday.md",
-    "Untitled",
+    "C Programming",
     "Sermons/The Authoritative Revelation of the Saving Gospel.md",
     "Sermons/Believers' Praiseworthy Pursuit after God's Glorious Visitation.md",
     "01. Templates/Daily Note Template.md",
@@ -202,7 +204,6 @@
     "00. Daily Notes/2023/May",
     "00. Daily Notes/2023",
     "00. Daily Notes/2023/April/30-04-2023, Sunday.md",
-    "2023-01-01.md",
     "00. Daily Notes/2023/April",
     "Untitled.canvas",
     "02. Attachments",
